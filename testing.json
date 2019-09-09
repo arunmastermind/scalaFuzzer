@@ -1,0 +1,2 @@
+[{"hash": "dbd33fb832e62d8fb6bc235b29969675e8b5695c", "source": "class i0 {\ndef i1(i1: Int) = i1 * i1\n}", "hits": [0, 1, 2, 3, 4]},
+{"hash": "da66b98c60b71eb15d5fb7ed70bfedccacb9b43d", "source": "package i0\ntrait I1 { object I2 }", "hits": [0, 2, 3, 4]}]

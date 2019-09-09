@@ -1,0 +1,1 @@
+class i0[i1](i1: i1) { def withFilter (I2: i1)(I3: i1): Unit = i1 }

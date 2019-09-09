@@ -1,0 +1,4 @@
+trait i0 {
+def I1(I1: k174) = ???
+implicitly[String]
+}

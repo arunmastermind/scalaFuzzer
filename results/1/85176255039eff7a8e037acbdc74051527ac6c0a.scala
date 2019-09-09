@@ -1,0 +1,1 @@
+trait I0[I0 <: I0[I0, i1[I3]], I2[I2 <: I3[I0]]] extends I0[i1[i1]]

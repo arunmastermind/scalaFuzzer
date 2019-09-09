@@ -1,0 +1,2 @@
+class I0(val i1: ((i2, I0)) protected private {
+{(i2) implicit val i2 = new Array(1i2) }

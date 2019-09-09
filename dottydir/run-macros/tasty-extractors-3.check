@@ -1,0 +1,44 @@
+Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Int")
+
+Type.TermRef(NoPrefix(), "x")
+
+TypeBounds(Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Nothing"), Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Any"))
+
+Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Nothing")
+
+Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Any")
+
+Type.TypeRef(NoPrefix(), "T")
+
+Type.TypeRef(NoPrefix(), "T")
+
+TypeBounds(Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "<root>")), "scala"), "Int"), Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "<root>")), "scala"), "Int"))
+
+Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "<root>")), "scala"), "Int")
+
+Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "<root>")), "scala"), "Int")
+
+Type.TypeRef(NoPrefix(), "T")
+
+Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Unit")
+
+Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "lang")), "Object")
+
+TypeBounds(Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Nothing"), Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Any"))
+
+Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Nothing")
+
+Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Any")
+
+Type.Refinement(Type.TypeRef(NoPrefix(), "Foo"), X, TypeBounds(Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Predef"), "String"), Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Predef"), "String")))
+
+Type.TypeRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Unit")
+
+Type.TypeRef(NoPrefix(), "Foo")
+
+Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Predef"), "String")
+
+Type.TypeRef(NoPrefix(), "$anon")
+
+Type.Refinement(Type.TypeRef(NoPrefix(), "Foo"), X, TypeBounds(Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Predef"), "String"), Type.TypeRef(Type.TermRef(Type.ThisType(Type.TypeRef(NoPrefix(), "scala")), "Predef"), "String")))
+

@@ -1,0 +1,5664 @@
+i2 _)
+def i10(i11: Int = i13) = i11
+class i10(i2: Int) extends i3(i14) def i11(i12: Int) = i12 match {
+case i3(i13, i11) => this(i12)
+}
+def main(i12: Array[String]): Unit = {
+val i15 = List(1, 2, 3);
+i2(List(1) ++ ())
+}
+}
+
+object i0 {
+def i1(i2: Int): Int = i2 + i3
+def i3(i4: Int, i5: Int) = 0
+val i6: Int => implicit i0 =: Boolean
+def i7(i8: Int): Int = i6
+def i9: i7.i5 = i7
+def i10(i4: i1) = println(i13")
+}
+class i10 extends i0
+
+trait i0 {
+def i1(i2: Int): Int
+def i3(i4: Int): Int = {
+i1(i2 = 1)
+}
+class i5 extends i0 {
+object i1 extends i3
+i5(0) += 1
+val i2 = new {
+val i2 = (this.i4) new i3()
+case None =>
+}
+}
+
+import scala.language.dynamics
+class i0 extends Dynamic {
+def i1[i2](i3: Int): Unit = ()
+val i4 = new { def apply(i5: Int) = true }
+class i6(val i5: i6) extends i0[Int] {
+Console.println(i3[List[(Int, Int, Int]))
+}
+abstract class i7[i4 <: Ordered[i6]](var i6: Int, i5: Int, i6: Int) extends AnyVal class i14(val i5: Int) {
+def i11 = new i6()
+def i11[i12] = i12 map (i13 == i9)
+def apply(i13: List[i10]) = i7 match {
+case (_, _, _) => None
+case (i13, i10, i19, i13, i13, i12, i13, i4, i13, i15, i12, i12, i12, i19, i23), _*)
+}
+def i14(i13: Int): Int = i11 + i15
+implicit final val i15 = i11((i13, i1)) println(i13 == i10) def i9[i10, i11](i16: i1, i11: i2 => i2): i11[i12, i5, i7, i9[i10]]
+@i1(true) trait i18 extends i0[i1, i2]
+trait i8[i9]
+trait i18[+i17[i2]]
+trait i11[i3[+i2] <: i0[i1, i2], i9[i4 <: i6, i10]
+trait i11[i13] extends Any
+trait i10[i2] {
+def i2(i4: i4): Unit = ()
+}
+trait i11 {
+trait i18 {
+type i2
+def i7: i6[i4, i9[i2]] = new i9[i7]
+def i11(i11: i2[Int]) = i6(3, i4: Int)
+class i10
+class i10[i2](val i21: String) extends i6
+case class i14() extends i2[Int]
+case class i12(val i4: Int) extends i0
+case class i14() extends i4[Int]
+case object i10 extends i0[String]
+def i11[i13[_]](i11: i2[i2]) = i11(i13, i12)
+trait i18 extends i1[i7](i12) extends AnyVal {
+def i14[i4](implicit i15: i11[i2]): i1[i1] = i12
+def i13[i15](implicit i11: i14 <:< i14): i4[i6] = sys.error()
+implicit val i12: i6[Int, Int] = 10 }
+object i0 {
+def i14(i2: String)(implicit i10: i3[i4]): i1[i1 { type i6 >: i11 }](implicit i13: (Int) => i9) = i6 match {
+case _: i2[_] => i10 val i12: i7[i2] = i11 yield i10
+}
+}
+
+trait i0 { this: i1 =>
+import i1._
+implicitly[({type] => (List[Int]) match {
+case (0, 1, 2) => val Exception => case _ => implicit List() = this }
+}
+
+object i0 {
+trait i1 {
+type i2
+type i3 = i1
+type i4 = i3
+type i5 = i2
+type i6 = i2
+def i7: i5 = i6
+}
+val i8: i6[Int, String] = { case i8: Int => 3 }
+}
+
+object i0 {
+type i1 = AnyRef + i2;
+abstract class i3;
+trait i4 {
+type i5 <: i6
+type i6 = Singleton.this
+type i7
+val i8: i4 = null;
+}
+}
+trait i9 extends i1 {
+def i15 = i9 def i11: i10 = i8
+var i11 = new i14
+}
+object i19 {
+val i21 = new i3 {
+type i1 = Option;
+val i12: AnyRef = new i14().i10(i2, i6.i3);
+}
+}
+
+
+}
+class i0[+i1] {
+def i2: i1;
+def i6[i7](i8: i2 => Boolean): i7 = ???
+}
+object i9 {
+def unapply[i1](i9: i0)(i10: => i2) = (new i1 {})
+}
+object i9 {
+implicit def i10[i11[_]](i12: i0[i1], i12: Int, i7: i4[i1]): i1[i9, i2] = new i2(i10)
+}
+trait i15[i4[_]] {
+def i13[i4](i16: i6) = i16.flatMap
+def i12[i10](i16: => Int) = i13 match {
+case i14[i18 i12 : Int, i4[i9] => Double, i7.i9] =>
+def i11: i5[i11] = new i4[i1] i15[i12] def i12 = i14 LinkedList.i15
+val i15 = i16
+}
+}
+
+object i0 {
+def i1[i2](i3: i2)(implicit i4: Any = ""
+new i0("", i2 = if(new i5) new App with Object {
+private class i3 {
+def this(i4: Int) case class i5(i4: i0) {
+def i6 = new i0
+i6(Ordering.LazyList)
+implicitly[i4.type]
+}
+implicit val i8 = new i0("", i2 { def i3 = new i3() i4 i2 "")
+def i8 = new i0
+i8 += 1
+i7.i10(i10) * 8 { i12(i6) })
+i11.i10.i5(i10 = i15 + 2)
+}
+}
+
+object i0 {
+type i1 = Singleton
+final object i2
+class i3
+sealed abstract class i4[i5, i6] {
+def i7: Int = i6
+val i8: i3[i2] = new i9[i6]
+}
+
+sealed abstract class i0 {
+this: i0 =>
+def apply() = new i1
+}
+}
+
+class i0 {
+var i1: Int = 1
+}
+
+class i0 {
+def i1 = 1
+}
+object i2 {
+implicit implicit abstract class i1
+}
+trait i1 extends i0 {
+trait i1 {
+type i2
+def i3: i1
+}
+val i4: i1
+val i5: i1 = null
+}
+trait i3 {
+def i4: Unit = {}
+}
+new i6 {
+val i2 = ???
+import i8._
+class i10 {
+lazy val i20: i8.i4 = ???
+}
+}
+object i10 {
+class i1
+}
+trait i15 {
+abstract class i12
+case object i13 extends i10
+object i17 extends i0
+case object i11 extends i3
+sealed abstract class i16[i16]
+class i11[i3]
+class i10
+case object i11 extends i7[List]
+class i10
+case class i11(i16: i1, i4: Array[Int]) extends AnyVal {
+def i15[i7](i17: i1): i12[i7] = new i17(new i6);
+()
+}
+}
+
+object i0 {
+trait i1
+def i2: i1 = new i1
+implicit def i3(i4: i1): i2 = new i1 {
+type i2 = List[String]
+}
+abstract class i5 {
+def i1 =
+val i2: Int
+}
+class i6 {
+val i2 = new i4 { type i3 = String; val i3: i1.i4 = this; i7.i8 } def i5: i9 = i5 match {
+case _: Array[String] => null
+implicit def i11(i21: Int) = i9 + i10
+i9 i10 match {
+case i6(i2) => i11.i3
+}
+lazy val i17: Any = i10 }
+}
+class i10 {
+def i11 = new i6 {
+def i2(i3: String) = i9 match {
+case Some(i9) => }
+}
+object i11 {
+def main(i12: Array[String]): Unit = {
+val i11 = new i0
+i3(1)
+}
+}
+object i16 extends i4 {
+trait i11
+val i21 = i10
+val i11 = i1
+val i9 = new i2
+def i14 = new i10("")
+}
+}
+
+object i0 {
+trait i1 {
+type i2
+def i3(i4: String): Unit = {}
+def i5(i6: i0): i1 = i6 match {
+case i2(i7) => println()
+}
+}
+trait i8 extends i4 {
+override val i3 = this;
+type i1 <: i7;
+trait i2 {
+type i3
+def ::[i4: i3 <: i5,
+i6: i1 <: i2[i4]
+def <: (i2, i5)
+println(i6
+5 i7 i4 5)
+}
+
+
+List(1, 2))
+val i1: Int
+def i2: ClassTag[Int, Int]
+type i6 =
+val i7 = Some(i7 == i8)
+def ===(i10: Int, i9: (i1, i10)) = i16
+}
+
+trait i0 {
+type i1
+type i2 <: i1
+val i3: i2
+def i4: i1
+val i5: i2
+def i6: i0 = this <
+i2
+}
+
+package i0
+"" i1 {
+case class i2(i3: Int) extends AnyVal class i4 {
+def main(i5: Array[String]): Unit = {
+val i6: i4 = contains("", i4)
+}
+}
+
+object i0 {
+val `\i0` = 'i1
+def i1: Int = '\i1' def this(): Unit
+}
+trait i2 {
+val i3 = new Ordering[i0]
+def i4(i5: scala.String) = return println()
+val i6: i2 = i0
+}
+
+object i0 {
+def i1 = {
+def i2(i3: Int) = i4"i5
+new i4
+i5
+} println()
+println(i2.i3)
+}
+
+class i0 {
+class i1[i2]
+implicit def i3[i4]: Any =
+def i5 = i0
+}
+object i3 {
+def i6[i7](i8: String) = new i7() }
+trait i9 extends Any { def i10[i2 <: _ <: Boolean with Singleton](i3: i2) = { type i9 = i6 type i7 = i5[Int]#i3[String] }
+
+trait i0 {
+type i1
+type i2
+type i3[i4 <: i2[i4], i5, i6 <: i7[i4]]
+def next: i4[i2, i3] = sys.error()
+implicit val i5: i3[i2] = Nil
+}
+
+class i0 {
+class i1(val i2: Any) extends AnyVal {
+def this() = this(i2)
+}
+def i3(i4: Int): Int = i2
+val i5: Int = i0(null: String Any{println) i3(2 : i3) def main(i4 : Int) = i4 match { case i0(i4, i5) => i5 } def i6: Int = { i4 =>
+type i2 = i6
+def i7: i7.type = i3
+lazy val i5: i2 = i6;
+}
+{
+lazy val i6: Int = i2.i7.i5(i7);
+for (i8 <- 0 i6 + i5)
+}
+}
+class i9(i10: Int, i10: String, i12: Int, i4, i13 { _ => Int; i12 { _ => implicit i13 <= null;
+val i17: (i1, i11) => i10 = i8 true println(i11.i16 == i14.i9); i12 }
+}
+object i1 {
+def i2(i13: Int) = i14 + i11
+this(i12)
+}
+}
+
+object i0 {
+def apply(i1: Int) = println()
+}
+class i2 extends i0 {
+def i1 = true
+}
+class i2() extends i0(i1 = _ with i0)
+
+object i0 {
+val i1 = 0: ({ val i2: Int => """ }
+8 filter => i5 | 2 :: 2 : i2 = ??? : i1 => i1 }
+}
+
+class i0 {
+private val i1 = implicitly[Int]
+}
+
+class i0(i1: Int) {
+def i2 = 0
+private val i3 = _
+private[this] var i4: String = _ def i5(i2: Int): Int = 1
+}
+class i3(val i4: Int) extends AnyVal {
+private val i1 = 2
+override def i2() = i2
+}
+object i7 {
+def i8: i1 = new i5()
+println(i8.i10(i3)
+}
+sealed abstract class i9[i10, i15, i16, i17, i15] extends i10[i14, i12]]
+trait i7[i8]
+trait i6[i7, +i1] extends i0[i8, i9] {
+def i16: Any
+}
+trait i10 extends i3 {
+type i2 <: i6
+type i9[i10] = Stream[i15, i10]
+type i17[i2, i3, i17[i6] <: i4] <: i1[i9, i12]]
+trait i14
+trait i2[i7[i8]
+trait i8[i3 <: i0[i1, i2]
+trait i6[+i5]
+case class i9[i2[_, Long, i5] {
+val i9: i2[i5]
+val i10: i12[Int] = i7
+}
+trait i12 {
+val i10: i5[i10, i4]
+def i14: i1[Int] = i6
+}
+trait i18 extends i0 {
+type i1[i2] = i7.i2[i9] => i10
+def i14 = i4[i9](i11)
+}
+
+class i0 {
+def unapply(i1: Int): Int
+def i2 = {
+trait i3
+trait i4
+object i5 {
+def main(i6: Array[String]): Unit = {
+val i7 = false;
+case i8 => case _ => i8
+}
+}
+object i9 {
+import i0.{ i1, i2 => i2 }; new i0 {}
+implicit def i10(i11: String) = i16
+this(i12)
+}
+val i11: i4 = i5
+val i17: i8 = i9()
+def i10(i11: Int): Int = i11 = i11
+def i11(i13: Int) = { class i17 class i16(); implicit val i15 = i7(); case val i10: String } = new i6(66);
+}
+
+object i0 {
+trait i1 {
+type i2
+trait i3 extends i4 {
+type i5
+val i6: i0
+}
+trait i7 extends Any with i4 {
+type i1 = String
+}
+val i7: Int ` var i8 = 2
+private val i9: i6
+var i10: i8 = ???
+i9 = new i6 with i8
+import scala.i4._
+def i10(i2: i5): i6 = ???
+}
+class i10 extends i2
+object i14 {
+implicit def i14(i15: i4): Unit {}
+trait i12 extends i7{i15}i5 with i15 { def i14() = "" }
+trait i2 {
+type i3
+val i11: i4.i1
+val i9: i5.i1
+}
+trait i10 extends i3 {
+def i10(i11: i4): String =
+i11.i3(i4)
+i6 match {
+case _
+}
+}
+}
+
+
+)
+}
+
+object i0 {
+private val i1: Any = 1
+i2: Int =>
+i2 match {
+case i3: Tuple1[_]] => case _ => 1
+case i4: i2 => i3
+case (i3: Int, i4: Int) =>
+case (_: i5) =>
+case _ => sys.error("")
+}
+implicit def i6[i7, i8](i9: i7): Any = { i16 =>
+extends List(i4) => i5
+case _ => 1
+case (i2, i3) => 1
+case _ => 2
+}
+}
+import scala._
+class i1 {
+implicit def i2(i3: String)(implicit i6: String*): Any = i6(4)
+}
+
+trait i0 {
+def i1[i2 <: Nothing](i3: Any) = "
+def i4(implicit i5: i0): Option[Tuple2[_]] = (i4: Int) => i1(i2)
+val i6: (Int, Int) => Any = (i2 _ < i4) else println()
+}
+trait i7[@specialized i3](i4: String, i5: Int) extends AnyVal class i6(Some val i4: Int) extends AnyVal class i8(val i2: Int) extends AnyVal class i10(val i8: Boolean) extends AnyVal {}
+abstract class i12[i3] { def i4(i13: i1, i10: Int) = 0 }
+class i12 extends i2 {
+val i10 = new Array[i2](1)
+val i11 = i13.i12 _
+}
+
+object i0 {
+abstract class i1
+class i2
+class i3
+class i4
+case object i4 extends i3
+object i1 {
+def i2 = 0
+}
+}
+package i3.scala {
+class i4 extends i0[i4]
+object i5 {
+def i6[i7, i8](i9: i0[i6]): i7 = i9 = i9
+def i10(i6: Any) = i11
+PartialFunction.i5[i4](i5);
+i11[i1](i12)
+}
+}
+
+class i0(i1: Int) extends Option;
+class i2(val i1: Int) extends AnyVal class i3(i4: Int) extends AnyVal {
+private[this] def this() = this()
+def i5 = new i0
+i1.i4(i5) i4: i3.i4
+}
+object i8 {
+def i9(i10: Int): String = {}
+class i10 extends i2 { override def i1 = new i0();
+}
+
+object i0 {
+case class i1(i2: Int, i3: String, i4: Boolean) extends AnyVal {
+def i3 = new i0
+}
+}
+
+object i0 {
+def i1(i2: Any) = i2 match {
+case Some(_*) => }
+}
+
+package i0;
+trait i1
+trait i2
+class i3 extends i1
+object i4 {
+var i5: Int
+}
+trait i9 extends i0 {
+private val i1: Int = false
+def unapply(i5: String) = new i13()
+}
+class i16(i12: i6) extends i2 {
+i4: i2 =>
+}
+}
+
+object i0 {
+def i1[i2, i3](i4: String) = (i2: this.i1) else [Seq[String]]
+}
+
+import scala.i0.i1 import scala.i0.i2
+class i3[i4](i5: i4) extends i3[i1]
+def unapply[i2](i4: i1): i6[i2] = sys.error()
+def i6(i7: i0[_]) =
+i6.i7.i8(i9.i7).i4
+}
+
+object i0 {
+def i1(i2: Any) = i2 }
+
+object i0 {
+def i1[i2, i3](i4: i2)(implicit i5: i2[i2]): i4[i2] = i4
+def i6[i4, i3](i5: Traversable[i2])(i4: i3[i2]) = (i3, i4)
+def i7[i8 <: i0](i9: i8, i10: i4[i9]) = i11
+val i11 = new i4(new i11) println(new i1[Int] {})
+}
+
+object i0 {
+type i1 = Nothing
+val i2: 1 = i1
+}
+object i0 extends i0 {
+val i1 = 4
+super.i2 implicit object i3 extends this
+super.i2 + i2.asInstanceOf[i2]
+val i4 = new i5.i1 }
+
+package i0
+private var class i1[@specialized(Int) i2] {
+def i3[i2]: i0[i2] = new i4[Int]
+}
+
+import scala.language.i0
+object i1 {
+object i2 {
+private implicit val i0: Int = 0
+@inline
+def i3: Int = false
+private[this] var i4 = 30 _
+def i5 = (0, 0) def i6: String => Int =
+i7.i5 inline val i1 = new i4() def i6 =  match {
+case i4 @ _ => i5
+} def i7 = finally(classOf[String])
+def i8(i5: Int) = i3(i4)
+}
+}
+package i1 {
+def i2(i3: Int) = i4 + i3
+private new i3().i4()()
+}
+}
+import i2.i5 {
+object i6 extends scala {
+if (true)
+i2 i2
+println(i5.i1(new Map())
+}
+
+object i0 {
+val i1 = new { def i2 = "" }
+}
+
+trait i0 {
+type i1
+def i2: Nothing = super.i2
+}
+}
+
+object i0 {
+def i1[i2, i3 <: i2](implicit i4: i3): i2 = sys.error("")
+val i5 = new { def i1 = 5 }
+class i6 {
+val i7 = new i0
+val i8 = i3 val i9 =  _
+def i10[i11, i17[_], i58@Symbol](i10: i2, i12: Int) = i14 + i12, i13 + i12(i12);
+val i10 = i1((i13, i12))
+i10(new i10(this): _*)
+i13.i11
+List(1, 2, 3))
+}
+
+
+package object i0 {
+sealed trait i1
+}
+val i2: i1
+trait i3 extends i2 {
+type i4 <: i2
+type i5 <: i6 type i9 = i5.i2
+type i6 = Int
+type i7 = {
+val i9: i2 = ???
+{ Console.println(i5 {  _ val i4: i8.i4 = new i4 }
+}
+class i10() extends i6() {
+implicit val i10: i3 = ???
+}
+implicit def i10[i1, i2](i5: i4 <:< { val i6: i5.i1): i4.i1 = i7 } }
+implicit def i14(i4: i1): i6 = new i4(this): String with i1[i0]() i11() }
+
+object i0 {
+def i1[i2, i3 <: i2](i4: i2, i5: i4) = (i5: i4) => i6)
+trait i6[+i4]
+trait i7[i5, i1[_]]
+trait i6[i2, i7 <: i6[i4, i5]] extends i0[i7, i8]
+trait i6[i7, +i9 <: i4 with i8, i9 <: i4[i4, i5] with i4[i7, i6, i7], i8 <: i0[i7], i9 <: i0, i15, i17, i9] <: i12[i13, i16, i14 <: i7[i8]] extends i4[i5, i8]
+trait i1[i2 <: i2, i6 <: i2[i5]] extends i0[i7, i8]
+trait i12 extends i4[Any, i0]
+trait i9[i10, i12] extends i1[i2, i3] var i11[i2, i4] {
+def i15(i8: i4[i6]): String =
+def i14[i4, i5](i6: => i7[i6], i11: i2[i7, i8]): i6[i5] = i4
+i8(new i1[i2])
+}
+object i6 extends App {
+val i7: ((i2, i3) => i7)
+def i10[i7](i11: i7[i8]): i1[i2, i3] = {
+val i15: i4[Int,
+i10] = null
+i10(i8) = i15 {
+val i13 = i7;
+case i5(_) => map.classOf[i1[_]]
+}
+}
+
+object i0 {
+case class i1[i2](i3: i1)
+case class i4(i5: Int) extends AnyVal with i1
+val i6 = Nil
+implicit def i7[i8](i9: i0[_]) =
+{
+new i6
+println(i2(1))
+}
+object i2 {
+def apply[i2](i3: => i4): i4 = new i4({ val i8: i0[String, String] = () } def i9[i2](i7: String): with[i2] = i7 match {
+case _: i2[Any] => false
+case i11: Array[Boolean] => i5.map +  + 1
+case _ => println(i1)
+}
+new i2[Boolean] {
+val i2 = new i0 {
+val i10 = i1(false);
+if (true) i10(i10) }
+class i10 extends i6 { def ===(i11: Int)(i7: i5) extends super[i0, String] var i17 = _; new i5() }
+
+class i0 {
+val i1: Int => Unit = List("")
+def i2(i3: Int): Any = i3 println(i3.i1(i2) })
+}
+package i4 {
+import i3.{ Set => Any } with AnyVal {
+type i1 = i3
+val i4: i0
+type i5 = { val i6: i7.i3 }
+}
+trait i8 extends i0 {
+def i11: i2 = new i1
+implicit def i2(i3: Int): i1 = i6 match {
+case _: i1 => i11.i3
+case _ => false
+}
+}
+package i1 {
+trait i1 {
+type i2
+def i3(i4: i2) = Nil
+}
+def main(i5: Array[String]): Unit = {
+i1();
+trait i10 {
+def i10: i1 = i6;
+}
+object i18 {
+def i11 = {
+val i12: i3.type = i6;
+}
+implicit def i11(i5: i9.i5): i6 = i11 }
+}
+object i12 {
+def i15(): Unit = {
+lazy val i10 = i10.i10
+private type i4 = i6.this.i4
+}
+val i12 = i11
+val i12 = {
+super.i2()
+}
+}
+
+package i0
+private abstract class i1
+trait i2
+class i3
+object i4 {
+val i5 = new i2
+def i6(erased i5: Any) = i7 match {
+case _: String => false case None =>
+case i6(i3) => Console.println()
+}
+}
+trait i7 {
+class i8(val i2: String = "");
+def main(i12: Array[String]): Unit = {
+i1(i14) += 1
+lazy val i12 = i13 }
+def i11 = {
+trait i11 {
+def i12(i13: Int): Int
+protected def i14(): Unit
+}
+object i10 {
+def i10(i11: Int) = i11 match {
+case _: i2.toString => i8
+case _ =>
+i8.i7.immutable.i8
+}
+class i11 {
+def i12(i16: Int) = i5 + i1
+}
+}
+
+object i0 {
+val i1 = <!!2
+case class i2(i3: Int) extends AnyVal with i0
+val i4 =
+val i5 = List(1, 2, 3)
+val i6: Int = 2
+def i7: Int = 4
+override def i1: String => Boolean = i2.i3(, ) def i6(i2: Equiv[String]) = i2 match {
+case i0(Seq, _) => i5
+case _ => Tuple2 new i4
+}
+}
+abstract class i6 {
+class i4(i2: Any) {}
+}
+class i7(i8: Int) {
+def this(i6: Array[String]): Unit = {
+def i5(i2: Int): Unit =
+i2(List())
+}
+object i9 {
+val i1 = 2
+private def i1 = null
+val i7: this.type = new i5()
+}
+
+trait i0[i1, i2[i3]] {
+type i4[_]
+abstract override def i5[i6, i7 <: Int](i8: i1[i2, Int]): Unit = {}
+def i10(i10: String) = i16 }
+
+
+'
+i10 << iterator)
+i11: PartialFunction[Any]
+def i15(): Unit = ???
+val i16 = new i18
+}
+
+object i0 {
+class i1
+extends i0
+sealed trait i2
+class i3
+class i4
+val i8: i1 = new i1
+final val i1 = i1 _
+def i3(i4: String = ): Int = new i1(i2)
+val i5: i1 = new i4
+val i10 = i4
+}
+
+trait i0 {
+trait i1
+}
+trait i2 {
+def i3: i0 = this
+}
+class i4 extends i0 {}
+object i5 {
+implicit def i6[i7]: i6 = new i1 {
+type i8 = Int
+val i9 = i6
+val i10: i8
+}
+object i10 {
+def main(i10: String, i4: String) = i5
+}
+object i11 {
+val i15 = i12 match {
+case (i13._: Any) =>
+}
+}
+
+class i0 {
+def i1(i2: Int, i3: Int) = Some((i2, i3))
+def Any(i4: Any) = {
+val i5 = i4.i6(i7)
+}
+var i6 = new i0("") {
+implicit def i8() = i1
+val i10 = i1(5)
+}
+val i18 = new i10
+val i9 = i6.i1
+val i10 = new i2()
+i13.i8(i11.i12)
+}
+
+import scala._;
+abstract class i0[i1, i2] { abstract class i3 {
+def i4(i5: i1): Boolean = true
+}
+class i6 extends i7 {
+def i1(i7: i3): Unit = i7(i3)
+}
+
+class i0[i1]
+object i2 {
+def i3[i4[_]](i5: i0[i1]): i0[i1] = new i0[i1]
+}
+object i6 {
+(new i1).i2(new i1[Any]()).i4: Array[Tuple2] def i8(i4: i3): Unit = i7(List(1, 2, 3))
+val i11 = i10(List(1, )(Int => Nil))
+}
+object i10 {
+def i11(i13: String): Unit =
+for (i10 + i11) i7 else i9(i10)
+}
+object i15 {
+def i14(implicit i12: i12[Int]) = i16 match {
+case None => map.isInstanceOf[i3]
+case _ => new i9[Int]
+def i14[i7](implicit i15: i3[i2]): i3 = new i14(1, null: String) def i13[i5](i12: i14): i12[i2] = new i16(2")
+}
+object i13 {
+println(5 + (4 + (3 - i4(this)))
+}
+println(i8.i10(i5) + 1)
+}
+}
+
+object i0 {
+def main(i1: Array[String]): Unit = {
+val i2: Object = this
+val i3 = new { class i4 {
+implicit def i5: Int = 1
+}
+private val i6 = new i0
+val i7 = (i6 foreach { toInt { _ }) match {
+case i5 @ _ =>
+}
+}
+
+class i0[i1](i2: i1) { implicit def i3[i4](i5: i3): i0[i5] = Some(i7) }
+object i8 {
+def main(i4: Array[String]) =
+if (case i8 => true)
+i7.i10 match {
+case _: Array[Long] => None val i2: String => String = i9
+}
+}
+
+class i0 {
+case class i1(i2: Int, i3: Int)
+object i4
+}
+trait i5 extends i0 {
+private class i1 { def i2: Int = 1 }
+trait i6 {
+implicit def i7(i8: i0): Int = i6 = null
+}
+new i5
+}
+object i9 {
+def i10(i11: Int) = i14 match {
+case i2(i11 @ i4) => i10.i12
+case _ =>
+} catch {
+case i14 => true;
+case _ => false;
+}
+}
+}
+
+trait i0[i1] {
+def i2[i3 <: i4[i4]](implicit i5: i0[i1]): i4[i5]
+def this(i6: Array[i3]) = {
+val i7 = new i0
+i5.i6[String](null)
+val i8: i6[String] = i7.i9
+val i10 = i9[i6]
+}
+}
+
+object i0 {
+def i1[i2](i3: Int): i2 = i3
+implicit val i4 = new i0[i1]
+def i5[i2[_], i3](i2: i1[i2]): i5[i2] = for (i4 <- i6, i4) i7 i4 match {
+case i8(i4) => i7.i8 * i4.i5(i7)
+}
+}
+object i9 {
+def i10(i11: String) = i10
+implicit def i13[i13[_]](i11: Tuple2[i1, i14], i13: Int) = new i1[i12]
+def i16[i4 <: i1](implicit i5: i10[i7]): i1[i2] = sys.error();
+def i15[i2](i13: i9[i8]): i1 = i7 match {
+case i11: i0[Any] => null
+case i10: i5[i2, i4] => ???
+}
+import i0._
+import scala.i4.i1.i2
+class i10 extends App {
+new i7
+}
+class i9[i10]
+sealed abstract class i5[+i1]
+object i10 {
+def i1[i2](i3: i14): Unit = {}
+val i16: i11 = new i9(i10)
+}
+trait i18 extends i0[i0] {
+protected[this] def i13[i11](i16: => i4.i13[i7]): Unit = {}
+}
+class i8 {
+implicit def i10[i6] = new i4[Int] {}
+}
+object i10 {
+implicit def i10[i3, i8](i9: Int, i8 => i4): Unit = {}
+}
+}
+object i10 {
+i9.i7
+}
+
+trait i0 { type i1[i2] }
+trait i3 { i4: i0 =>
+type i1[i2] = i1[i2]
+}
+val i5 = new i4
+final case class i8[i9 <: i0](val i10: i9) extends i1 {
+abstract override def i10(i11: Seq[_]) = i6(null, null)
+}
+
+
+val i7 = new i1 {
+def i2: String =
+def i7: Unit =
+implicitly[Int].i1
+def i1() = i1 = i1
+else
+i1 match {
+case _ => i8
+case _ => }
+}
+
+object i0 {
+def i1(i2: i3): Unit
+def i1[i3 <: i2](implicit i4: List[i2]) = i4+i5
+def i7(i8: i4): i8
+def i9: i6 = {
+val i8 = new i8 }
+}
+
+package i0
+object i1 {
+type i2[i3] = i2 forSome { type i4 = String;
+val i5: i4 = i6;
+val i4: i4.type = new i2
+val i3 = i6.i2().i4()
+i6 match {
+case _: i3 => 0
+}
+}
+}
+
+object i0 {
+class i1
+case class i2(i3: Int) extends i1
+trait i4 {
+private var i5 = null;
+val i6: Int = 0
+}
+object i7 {
+def i8 = new i1 { val i3 = 1 + false; i6 } def i7: Int = { i1(i9) }
+}
+
+package i0
+abstract class i1 {
+trait i2
+def i3: Unit = {
+abstract override def i4 = <i5
+}
+}
+
+object i0 {
+def i1(i2: Int) = i2 * i2
+def main(i3: Array[String]): Unit = {
+val i4: i0 = new i0()
+println(i2"i2 i3(24))
+var i4: ((Int, (String, i2))) => i2 = i4;
+}
+}
+
+trait i0 {
+type Nil <: AnyRef;
+abstract class i1;
+trait i2 {
+type i3 <: i4;
+trait i4 {
+type i2;
+trait i5 {}
+}
+class i6; object i7 {
+var i6: i1
+val i7: i1
+def i8: Unit = {
+var i9: i6 = null;
+Console.println()
+}
+}
+
+package i0 {
+package object i1 {
+def i2: Unit = {
+val i2 =
+}
+class i3 extends i1 {
+type i2 = Int
+val i4: i3
+}
+val i5 = new i2
+}
+object i6 extends i2 {
+class i7
+}
+class i8 extends i6 {}
+abstract class i10 extends i2 {
+type i1
+def i12: Int = 1
+var i7: i1 = i1
+}
+object i10 {
+type i11 = i12;
+type i12 = this.i9.i14
+}
+
+object i0 {
+val i1 = new i2
+val i3 = new i0
+val i4: i3[i2] = new i2()
+implicit val i5: i2[Int] = new i1(5, )
+def i6[i7, i8](i6: i7 => i1) = i6(5)
+def i8(implicit i10: i0[String]) =
+i5(new i1[Int]())
+}
+
+object i0 {
+abstract class i1[i2] { def i3[i4](i5: i4): i5 = i3 }
+object i6 {
+def i7: =
+}
+object i5 {
+def i6(i7: i0): i7 = null
+def i8(implicit i9: i0): Array[i2] = new i6[i1] {
+def +:[i9](i10: i9) = null
+}
+implicit def i13[i4](i12: i2): i2[i6] = i7[i6](i9, i5)
+def main(i11: Array[String]) =
+if (i11 { val i2 = 42; i13 })
+new i6[Int]()
+println(i11 ++++ (null, Any)
+}
+}
+
+object i0 {
+case class i1(i2: String, i3: Int) {
+import scala.annotation.i4.Exception
+i1 i1 match {
+case i4: i1 => i1 match {
+case i3: i1 => Some(i2, i3)
+}
+def i4(i5: i0#i2) = i5
+}
+object i6 {
+def main(i7: Array[String]): Unit =
+(if (_ => Some(_))
+println(i7 + i6)
+case (i8: i1) => true; case _ => new i7.i2()
+}
+}
+
+class i0[i1](val i2: i1[Int]) {
+def i3(i4: i2): Array[i2] = null
+def i5: i1[Int] = null
+implicit def i6[i7, i8 >: i7](i8: i0[Boolean, Int]): Set[i2] = sys.error("")
+}
+trait i9 {
+type i1[+i2]
+type i3 = i2[i3]
+type i7[i5] = i2
+val i9 = i6
+val i10 = i4[i5, i2]
+type i14[i7] = i16 &#i8 = i8#i4
+var i11: i7[Int] = i12
+val i15 = Nil
+val i11 = i9[Int, i9]
+val i12: Int = 1
+println(
++ 1
+&& i19
+i4[i3]
+i12: Int
+}
+
+object i0 {
+type i1 = List[i2]
+}
+object i2
+
+
+' 'i10 def i2 = ""
+val i5 = i11"i6"
+val i17 = 0
+val i17 = new {
+val i15 = _
+var i16 = new Array[String]
+def i11 = i1
+}
+object i16
+class i14
+
+object i0 {
+def i1[i2](implicit i3: i0[i2]) = new i0[Option](i2) }
+trait i4 {
+type i1[-i5] = i1[i2]
+val i6: i4[Int, Int] = sys.error("")
+}
+class i7[i8 <: i7[i2], i2 <: i5[i2], i2](i6: i2[i1], i7: i6) extends i0[i7, i9] {
+def size: i0[i6] = new i9[i9]
+def i10[i8 <: Any](i9: i10): Unit =
+i11.i4(i2)
+}
+object i16 {
+def i17[i14, i12](i13: i17[i11]): i9[i12, i0]] = i13 match {
+case i6(i7) =>
+case _ => true
+case _: Some[i2] => i12.i7.i9
+def i14: i1[i10] => Unit =
+i11 match {
+case None =>
+return 1
+case _ => None
+}
+println(i9 +  + i6)
+}
+trait i17 {
+type i1[i2] = List[i9 { type i4 <: i1[i4] } = null;
+val i15: i7[i10, i2] = null
+}
+
+import scala.reflect.{ classTag, ClassTag }
+object i0 {
+object i1 {
+case class i2(i3: String, i4: String) extends AnyRef }
+object i5 {
+def i6(i7: String, i8: String): String = ???
+def i9(i10: i0) = ???
+import i10._
+val i15 = new i16._
+i15.i15("")
+}
+
+object i0 {
+val i1 = new i2
+private var i3: String = new i0
+lazy val i4 =  contains 5
+}
+
+class i0 {
+def i1: Int = 1
+def i2 = {
+case class i3 = 4
+}
+class i4 {
+final val i1 = new i0
+i5.i4
+}
+}
+
+class i0(i1: Int)
+object i2 {
+private val i3 = 0
+List(i1, i2)
+case _ => Console.println()
+}
+}
+object i4 {
+new i0().i1()
+}
+
+class i0 {
+def i1[i2, i3](i4: i2, i5: i4 => try <: i4): i3 = i4
+override def i6[i4[_]](i5: i2[i3]): i4[i2] = ???
+i5()
+}
+
+package i0
+trait i1
+trait i2
+object i3 {
+import scala.language.i4
+object i2
+case class i2()
+def i4: i5
+}
+trait i7[+i5, +i6] extends (i1[i6] {}
+object i8 {
+def i9(i10: i8[Int]) = i8.i7
+}
+
+object i0 {
+trait i1 {
+val i2: AnyRef }
+type i3 <: i1
+type i4 <: i2 with i0
+val i5 = new i2
+def main(i6: Array[String]): Unit =
+i7(i2)
+}
+
+trait i0 {
+type i1 = Nothing
+type i2 >: Null <: i3
+final def update[i4](i5: i1 => Any): i0[i3, i6] = null
+def i6: i2[i1] = new i1[Int]
+val i7: Any = {}
+def i8: i5[Int] = i6 match {
+case i2(i3, i4) => i9 + 1
+case i7 => println(i7)
+case _: i5[_] => ???
+}
+}
+}
+
+object i0 {
+trait i1 {
+type i2
+def filter = 
+}
+object i1 extends i2 {
+val i3 = new i4
+val i5 = new i4
+println(
+i5 !{ ???, i4` })
+}
+object i8 {
+val i8 = new i0 with i1 { val i9: Int }
+class i11
+}
+object i18 extends i4 {
+override def i14 = new i0()
+}
+class i21 extends i6
+
+class i0(val i1: Int) extends AnyVal {}
+object i2 {
+def i3(i4: Int) = i2 match {
+case 42(i5) match {
+case i0(None, i6) => catch(0) match {
+case i0(None) => case i1(false) => Console.println()
+case i3(i2(i2(, , i13.extends)): Int => i8.size }
+val i18 = new i0(42) {
+def this(i1: Int) = {
+i11 match {
+case _: Some[i4] => i7.asInstanceOf[Int]
+}
+}
+val i16: i7 = new i0();
+}
+
+class i0(val i1: Int) {
+private def i2 = 2
+def i3=(i4: Any): Any = ??? match {
+case 1 :: Nil =>
+collection(1, 2) yield contains
+i4 match {
+case _ => new Iterator[Int]]
+}
+null
+}
+
+object i0 {
+class i1
+case object i2
+val i3 = (1, 2)
+val i4 = 3 val i5
+}
+class i6(i7: String)
+class i8 extends i3 {
+def Product = () => i7.i9
+}
+}
+
+abstract class i0 {
+val i1: Nothing = 1
+implicitly[Int]
+}
+
+abstract class i0 {
+implicit val i1: String = _
+private def i2 = 0
+class i3 extends i0
+case class i4() extends i0
+class i5 {
+def i3(): Unit = {}
+}
+object i4 {
+implicit def i6(i4: i0) = i6.i7.i8 }
+def i7(i5: i6): Unit =
+i9.i4(i9)
+}
+
+object i0 {
+def i1(i2: Any) = {
+trait i3 {
+def i4 = 4
+}
+def i5 = {
+val i6 = new i0(42).i5();
+}
+}
+
+trait i0 {
+val i1: Any = this lazy val i2: Any = None
+def i3(i4: => Any): Any = new {}
+}
+val i5 = {
+this.i1()
+i2()
+}
+i3(i4)
+}
+}
+object i6 {
+def i8[i2 <% Ordered[i10]](i10: i1[i2]): i1[i2] = new i4[i1] {}
+}
+
+
+val i1: Array[Array[Int]] = Nil.i2
+println(i1)
+}
+
+object i0 {
+class i1 {
+class i2
+}
+trait i2
+trait i3 extends i0 {
+private var i4 = false
+def i5: Int = 5
+}
+object i2 {
+def i3(): i0 = {}
+}
+i2()
+i3(i4) i4() i4() i4() {
+case _ => 0.toString
+}
+}
+}
+
+object i0 {
+class i0
+trait i1 {
+type i2
+def i3(): Unit = {}
+}
+object i4 {
+def i5() = i1.i2()
+}
+}
+class i8 {
+def i9: i6 = { type i9 <: i0 }
+val i10: i7.i2 = i9(i10)
+def i10(i4: Int, i5): Unit;
+val i14 = 1 + i1(i1());
+}
+
+object i0 {
+val i1 = new i2 {}
+val i2 =
+import scala.i0.i3
+private var i4 = List i2 with i3 {
+case class i5(i3: Int) = this
+}
+
+object i0 {
+def i1(i2: Any): Int =
+final val i3 = new i0
+val i4 = i2
+private var i5 = new Array[i2](0)
+}
+
+trait i0 {
+type i1
+type i2 = String
+type i3 <: i2
+type i4 >: i2
+}
+type i5[i6, i7 <: i1, i7 <: i6[i4]] <: i4[i3, i3]] i4[i6]
+}
+trait i7[i8[_]]
+trait i9[i2]
+trait i11[+i2] {
+def i6[i1, i2]: Int = 1
+}
+object i21 {
+def i11(): Unit =
+this {}
+implicit def i2[i1[_[ _]]](i10: i9[i7]) =
+i7.i4
+implicit def i10[i4 <: i6, i8[_]](i6: i1[i4]): Unit = {}
+}
+class i5[i6](i9: i8)(val i7: i4) {
+def apply(i7: i0): Int =
+for (i9 <- Nil: Double) if i6 i7
+try(i8 <- i10) i3(i10 i7 i9)
+}
+}
+
+trait i0
+trait i1
+class i2
+object i3 {
+def i4(i5: i0): i2 = i3
+}
+val i6: i0[AnyRef] = new i7.i6
+val i8: i2[Int, Int] = null
+i6(1)
+class i10 extends i3[i1] {}
+class i11[i7 <: i0](val i8: i6) {
+def AnyVal: i0 = ???
+def i11[i6](i2: i6): i6[i4] = i7
+val i11: i8 = i13 val i13: i7[i10, i10] = ???
+implicit val i13: i0[_, _, i10] = ???
+def i14(i18: => Any): (i2[i6, Any]) = this(new i4[i6, i7])
+new i3
+}
+
+trait i0 {
+def i1: Any
+}
+abstract class i2[i3 <: i0]
+object i4 {
+def map[i5](i6: i1 => Any): Unit = this
+}
+trait i7 {
+private[i0] var i6: Int = 1
+def i7 = 0
+}
+abstract class i6 {
+def i4(i5: Int) = { i4 =>
+i5(new i0[Any]()._]()
+}
+
+trait i0 { def i1: Int }
+trait i2 extends i0
+object i3 {
+implicit def i4(i5: => Double): Int = 0
+val i6: i3 = null
+def i6(i7: Int) = i2 match {
+case _ => i2(i6.i5)
+}
+}
+
+trait i0 {
+def i1: Int
+}
+trait i2 {
+val i3: 42 with i4 = new i2
+def i5: Int = 1
+}
+
+trait i0
+object i0 {
+def i1(i2: String) = 0
+def i3(i4: Int, i5: String): Unit = ()
+}
+object i6 extends App {
+private val i7 = 0
+sealed def i6(i7: Int) = i7.i8 * i6.i8(i4)
+}
+var i9: Int = {
+val i2 = i1(new List(1, 2), i0 = 1)
+i4(List(1, 2, 3))
+def i13: String = i6
+def i15 = i13 match {
+case _: String => Double
+} case _ =>
+val i10 = i10
+i1
+})
+)
+}
+
+trait i0 {
+def i1 = 0
+}
+object i2 {
+import scala.i3._
+class i1 {
+def i2 = i0().i2()
+}
+}
+
+trait i0[i1, i2]
+
+package i0
+object i1 {
+class i2
+}
+object i3 {
+def i4(i5: i1): i3
+}
+trait i6 extends i1 {
+type i2
+}
+trait i7 extends i2 {
+type i1 = String
+}
+trait i7 extends i2 with i4 {
+type i5 = Option (i6 < i4.length)
+}
+
+object i0 {
+def i1 = {
+val i2 = classOf[i2](10)
+println(i2.i3.i6)
+}
+}
+
+package i0
+trait i1[i2]
+object i3 extends i1[i2]
+object i4 {
+def unapply[i5](implicit i6: i4[i5]): i1[i4]
+}
+trait i4[+i5]
+trait List[i7] {
+def i6: i4.i5
+}
+implicit def i5[i2](i6: i4 => i4): i1[i2] = sys.error()
+val i7: i0[Any] = i4.i2 {}
+implicit val i8: i0[Int] = new i6(23).i6
+}
+
+abstract class i0
+class i1 {
+def i2: i0 = ???
+val i3: i4
+private val i4: i0 = ???
+}
+
+object i0 {
+val i1 = <i2> <i3><i4></i1>> Product] = <i1
+}
+
+
+class i0 {
+type i1 <: i2
+def i3: i2.i3 = ???
+}
+class i4 extends i0 {
+val i5: i0
+private[i0] abstract class i6
+}
+object i7 {
+val i8: i0 = ???
+import i6.i1 {
+val i7: Function1.i8.type = new i0
+println(i9.i2)
+new i0().i5 = this;
+}
+
+class i0 {
+def i1(i2: Int) = i2 + i3
+val i3 = 2
+private[this] var i4: Int = 1
+val i5 = i4"i3(5, 'i4')
+i6(1)
+}
+
+object i0 {
+def i1(i2: i0): Int = 0
+i1 match {
+case _: String => None
+case _ => i2
+}
+def i3(i4: String): i0 = null
+i4
+}
+class i5 {
+implicit class i1(i2: Int)
+val i3: Int = {
+this: Option[Object]
+}
+}
+
+object i0 {
+def i1[i2[_]](i3: i2)(implicit i4: i0[i1, i2], i5: i2): i2[i1] = sys.error("")
+}
+object i6 {
+implicit val i7: i0[String] = new {
+def i8[i4]: Any = Some(i4.i8)
+}
+
+package i0
+import scala.language.i1
+@i1
+implicit val i2: Any = i2
+}
+
+import scala.reflect.{ classTag, ClassTag } abstract class i0[i1] {
+protected[this] type i2[i3] = List[Int]
+}
+}
+
+import language.i0
+sealed abstract class i1 {
+type i2 <: i3
+trait i4
+trait i5 extends i2 {
+type i1 <: i2
+class i6 {}
+}
+trait i7 {
+type i1
+def i8(): i6 = -i4
+}
+object i13 extends i1 {
+val i1: Ordering[i1, i2] = null
+new i2
+}
+}
+}
+
+object i0 {
+class i1[i2]
+val i3: i2[Int, Nothing] = null
+def i4[i1](implicit i5: i4): i1[i1[i2]] = new i4[i1]
+}
+trait i6 {
+def i4(i5: Int): Array[i2] = sys.error("")
+println(i1)
+}
+
+abstract class i0[i1, @specialized i2](i3: i1)
+object i4 {
+implicit def i5[i1, i2](i3: i0[i1, i2]): i1[i2] = new i0[Option](i4)
+def i6[i2, i4[_]](i5: i3[i2, i2]) = ()
+def i6[i7, i8 <: i1](i9: i1)(i7: i0[i7, i8]](i5: i7[i5]): Any = i8 match {
+case i9: i1[i1[i2]]> => i2]
+}
+
+object i0 {
+def main(i1: Array[String]): Unit = {}
+}
+
+class i0
+object i0 {
+val i1 = true
+class i2() {
+def i3 = this;
+val i4: Any => Any =  new i1() }
+}
+
+class i0 {
+case class i1(i2: Int) {
+def this(i3: Int) = {
+object i4
+val i5 = (1, 2);
+i2 match {
+case i0(i3) => println() }
+}
+package i6 {
+private var Dynamic.toInt = new i2;
+private[this] def i7 = i2 def i2(): Unit = {}
+}
+val i6: i2 = new i2 {}
+}
+class i7 extends i2 {
+override def i1 = this match {
+case Some(_, _) => i2.i3 case _ => println()
+case _ => case _ => println()
+case _: Array[String] => None if (i8 == i5).i5 + i6.i10 i10 new i9() {} }
+new i15
+}
+implicit class i9(val i1: Int) {
+def identity[i2](i16: i4 => i4) = ???
+def i11(i12: Int) =
+i11 + i12
+}
+def main(i13: Array[String]): Unit =
+implicit val i13 = new i0[Int]
+i10 = false
+}
+
+package i0
+private abstract class i1() extends dotty.i2
+trait i3 {
+@i0(new Array[i3]) val i4 = new i3
+}
+sealed trait i5 { override def i3: i1 }
+final class i6(i7: Int) extends i0(i5);
+object i8 {
+def i10 = {
+toString
+}
+def i14() = {
+class i11 {
+def i6: i4;
+}
+class i16 extends i11 {
+private val i1: Seq[_]] = null;
+}
+trait i4 extends i3 {
+object i11
+case object i15() = i12.map(i4 => i5)
+}
+}
+
+abstract class i0 {
+private val i1: Int = 1
+val i2 = 1 - 1;
+private(i1 => Set[Int].asInstanceOf[Int])
+}
+class i3
+class i4() extends i0
+object i5 {
+implicit class i0(i3: Int) {
+def i4 = i3 * i3
+}
+val i5 = implicitly[Int];
+def i6(i7: i2): Int = i3;
+private var unapply = Some((1, )) }
+
+object i0 {
+sealed trait i1
+trait i2
+sealed trait i3
+implicit val i4: String = sys.error("")
+val i4: i1 = i4
+def i5(i6: Int): Any = i6 match {
+case i2(i2(i2(i5)): Int => i5.i4
+}
+}
+
+package i0
+trait i1 {
+def i2: Any;
+}
+trait i3 {
+type i4
+type i4;
+type i3 <: i3;
+trait i4 extends i2 {
+type i2 = i3
+object collection {
+def i5(i3: i1): Int
+}
+class i6 {
+private var i4: i1 = null
+def i7: this.type = {
+val _ = ()
+}
+}
+}
+object i8 {
+def i9: i7;
+type i12 = this.i5 }
+implicit def i11(i4: Int) = i10
+val i11 = i9 i4"i12{0i16 =>
+i7 match {
+case _: i8 => i3 case _ =>
+}
+}
+}
+
+object App {
+def main(i0: Array[String]): Unit = {
+println(new { val i1 = 0; false; i2 }).i2)
+}
+
+
+collect {
+case `i0`@ i10 => i16.final {
+i15
+}
+}
+}
+
+object _ {
+import i0.{ i1, i2, i1, i2 })
+val i1, i1 = i2 }
+
+trait i0 {
+abstract class i1 {
+type i2 <: String;
+abstract abstract class i3;
+override def i4 = {
+object i5 extends i1 {
+val i2(i3): String;
+val i1: i1 = null;
+val i4: i1 { type i3 <: i6 } = null;
+val i6: Int = i4;
+}
+
+class i0 {
+val i1: i0.i2[Int]
+}
+object i0 {
+implicit val i6: Nothing =
+}
+}
+
+trait i0 {
+trait i1;
+case class i2() {
+}
+
+abstract class i0 {
+private val i1 =
+class i2
+}
+class i3 extends i0 {
+def i4: String
+}
+trait i3 {
+type i1 >: Null <: i5 with i4
+trait i7 extends i2 {
+def i4: String =
+i5
+}
+}
+}
+class i7 extends i3 with i4 {
+implicit def i8(i9: i4.i2): Unit = {}
+}
+class i10 {
+val i11: i0.i3 = i6
+val i11: Symbol = ???
+}
+class i16 {
+val i11 = new i12
+i5 = true
+}
+import i12._
+implicitly[scala.type]("")
+}
+object i10 {
+case class i10(val i18: i0) extends i11
+case class i12(
+i11: i8[i10, i12])(val i15: i4[Int])
+val i13: i4[String] =
+if (i12)
+println(i11 !== i12)
+}
+}
+
+object i0 {
+trait i1 {
+type i2 <: i0;
+Console.println(i1, i5.i2);
+def i6: i2 = i4;
+}
+class i5(val i6: i2) extends i3(i2)
+object i7 {
+implicit def i8(implicit i9: i3): i1 = i9.i8
+}
+}
+
+import scala.language.higherKinds
+trait i0 {
+type i1 <: String with i0
+abstract class i2[+i3] {
+type i4[i5]
+def i6(i7: Ordered[i3]): List[i4] = i5 def i8(i5: String): i0[(i2, i2]) = true
+}
+class i10 extends i0[Int] {
+def i10(i4: i7.type): Unit
+def i13[i14[_]](implicit i16: i1[Int, Int]): Unit = ()
+def i11[i1[_], i2](i13: i1[i2]): i2[i1] = new i1[i11, i3](i6)
+def i12(i13: i8)(i14: i2[String]): i1[i8, i4] =
+i7.i4 match {
+case i13: Array[String] => i11 case None =>
+}
+}
+
+object i0 {
+def i1: Unit = {
+val i2 = Nil
+}
+}
+
+package i0
+package object i1 {
+case class i2(i3: String, i4: Int)
+val i5 = Array(i0(42)))
+}
+
+class i0 {
+def i1(i2: List[String]): Unit = {}
+}
+trait i3 {
+def i4(i5: Int): Unit = i3(i4)
+}
+object i6 {
+val i7 = new i0();
+Console.println(i0.i1);
+Console.println();
+}
+
+object i0 {
+abstract class i1
+case class i2(i3: i4) {
+def i4: Unit ;
+def i5: i1;
+def i1(i2: i0) = i2 match {
+case i6: i2 => i6.size
+null
+}
+}
+
+package i0
+class i1
+class i2
+sealed trait i3
+case class i4() extends i0
+object i5 {
+val i6: i0 = i0(new i6())
+}
+
+import language.i0
+object i1 {
+val i2 =
+type i3 = Any
+private def i4 = super.i2
+}
+object i5 extends App {
+val i6 = new i0
+private def i7
+}
+trait i8 extends i6 {
+def i11 = 5
+}
+class i7 extends i3 {
+type i1
+implicit def i11: i1 = ???
+}
+object i17 extends i1
+}
+
+class i0(i1: Int, i2: Int)
+object i3 {
+implicit final class i4(i5: String)() private val i6 = {
+val i7 = {
+i7 = i3 + i4
+class i8 {
+val i9 = _;
+}
+
+class i0[i1]
+class i2 {
+type i1[i2, i3] = i1[i2]
+type i4[+i2] = i3 => i2[i1]
+object i5 { implicit def i6[i4](i8: i7): i6 = i6; i5 }
+}
+
+object i0 {
+def main(i1: Array[String]): Unit = {
+val i2 @ List(, , i3: String) => Unit) = {
+val i4 = new Array[String](1, "")
+}
+}
+
+object i0 {
+val i1: (Int => Int) = (i2, i3 @ 4) match {
+case Some(_: Seq[String] => Set[_]) => case List(1, 2) => }
+class i4 {
+class i5
+}
+
+trait i0 {
+trait i1 {
+type i2;
+class i3
+val i4 = new i2
+}
+object i5 extends i1 {
+val i2 = _;
+}
+}
+
+object i0 {
+type i1 = String
+}
+
+class i0 {
+def i1[i2](i3: Int) = i2 match {
+case None => None
+}
+}
+
+object i0 {
+type i1 = (i2: i2) => ???
+}
+
+
+println(i4)
+}
+object i5 {
+import i6.i1.i2
+def i4(i3: i1): Unit = {}
+}
+class i8 extends i0 {
+i2
+}
+}
+
+object i0 {
+class i1 {
+def i2: i3
+}
+val i3: i2
+private val i4: i2 { type i5 = i4 } }
+
+trait i0 {
+type i1
+val i2: String;
+val i1: Any
+}
+trait i2 {
+def i2: Any
+}
+val i3: i4
+def i4 = {
+new i2
+}
+def i5: i4 = new i3.i4 { implicit def i5 = i5.i2()
+}
+def i6(i7: (String, Int)) = (i8: @annotation.i6) match {
+case 8 =>
+case _ =>
+case 185 | 188 | 186
+2
+} catch {
+case List(1, Exception, 18, 13,',48, 13, 13, i13, +i18) || 185 | 2 }
+i10 { (i23 i14 i13 i12") } }
+implicit def i14(): Int = 4 * i15
+println()
+val i16 = new i0
+println()
+println(123).##
+val i1 = ""
+val i4 = """ + 1 + i1 +
++ i10
+val i7: (i1 { type i2 = i3.i4 }): String = {}
+}
+}
+
+object i0 {
+final val i1 = 10
+println()
+class i2(i1: Int) { i3 =>
+i3
+new i4().i3();
+def this(i1: Int) = { implicitly[i0.type] }
+}
+trait i5 extends i0 {
+def i1: Int = 1
+}
+class i6(i7: Int) { def i6 = this }
+trait i7 {
+private var i2 = new Array[i3](i4);
+}
+}
+}
+
+object i0 extends App {
+def i1: Int = 1
+}
+object i2 {
+val i3 = new i0
+println(i3.getClass.Set[Double]]
+}
+object i4 {
+new i0().i5 = i4
+}
+class i6 extends i0 {
+trait i1 { def i2(i7: i5 }): i0 = i2 match { case i4() => val i5 => };
+}
+trait i6 extends i3 {
+override val i7: Int
+}
+val i8: i4 = new i5() map { case i10(true) =>
+}
+}
+
+abstract class i0() {
+def this(i1: Int) = {
+this(new {}) }
+}
+
+trait i0[@specialized(Boolean) i1] {
+def i2[i3 >: i1](i4: i3 => i3): i2[i3 <: i4](i5: i4): i2[i5]
+def map[i4 <: i7[i5], i6[i3]] = new i4[i7](i6)
+}
+trait i8
+class i9 {
+private[i0] var i7: Int = 0
+def i9[i10]: List[i4] =
+extends i16[i15](i4)
+}
+object i15 {
+def i8(i9: i4) = ???
+}
+case class i7[i1](i1: i1) {
+override def toString =
+}
+def i5[i6, i7 <: i7, i14 <: i2, i17, i19, i23, i18, i19, i14, i15, i15, i16, i17, i19, i20, i11, i16, i19, i20, i13, i17, i18, i20, i21]) = i7 match {
+case i3(i13, i13: i2, i13: Int, i10: Int, i18: Int, i12: i1, i12: i8, i19: i2) =>
+private val i13 = new i3
+val i13 = new i10
+val i15 = i12
+type i12 = i7[i10]
+type i15 = i8[Int]
+val i14: i2[Int] = null
+implicitly[i4[i1[i10]]]
+Some(i14.i5)
+}
+
+class i0[i1[_]] {
+def i2[i3[i4]]: i4[i5]
+}
+trait i5 {
+def i6: i7.i2
+def i8[i9[_], i11[i1[+i2]]] = ???
+val i7: i0[List]#i9[String] = new i10[i3]#i3 = new i5[i8]
+val i11: i4[Int, Nothing]
+}
+trait i11 {
+type i12[i3] = i10
+type i12[+i15] = Int i11[i9[Int, i6]] => i12 <: i13 with i6[i11, i12, i12]
+trait i13[+i12] extends i12
+trait i11[i10] extends i10[i15]
+trait i12[i10, i13[i1, i2]]
+trait i13[i1] {
+def i10(i4: i1)(implicit i5: i7[i1]): i1[i6] = i5
+}
+
+object i0 {
+@annotation.tailrec
+final def i1: String =
+@inline def i2(i3: Int) = i3 + 1 i4 ' else 2
+null
+}
+abstract class i5 {
+@for def i6(i7: Long): String = ???
+}
+implicit def i8(i9: String)(i1: String): String = ???
+}
+class i14 extends i0
+class i12(val i1: Int) extends AnyVal class i13 extends i5 with k1140 { this.i16.type#i15 } with i10 with i0
+object i15 {
+private val i12 = 3 _ val i11: Int = (5, , 5, 6): Any => i1) }
+class i9 {
+private val i10 = (i1, i2)
+}
+
+abstract class i0 {
+val i1: PartialFunction[Int, Int] = new i1
+def i2[i3 <: Boolean](i4: i0): i1 = new i1(i2)
+}
+trait i5[+i1, +i2[i3]] {
+def apply(i7: i0[Int, Int]): Unit = if (i7 == 0) else (i2)
+}
+
+object i0 {
+val i1 = 2;
+val i2: Int => String = i1;
+case val | => throw match { case 1 => 1 }
+final val i3 = ({ 5; this.update => i2 } def i4: Int = { () =>
+i3 case _ => this
+}
+}
+trait i4 {
+class i5 extends i3({ def i6 = "" classOf { null }) = i6 match {
+case i6() => .i3
+case 4 => i6 + i7 + i7 + i4 + i5 + i7 + i4 + i8 + i9
+}
+}
+}
+
+
+val i7 = i2"i8 i3 i4 i5 + i7 + i4
+val i9: Int
+def i7 =
+<i10>{ i2}.toArray
+}
+val i15 = i13 i8"2
+val i16 = i11
+var i11: Int = _
+i18
+} else
+i15 object i11
+val i16: i16 & i14.withFilter = i16
+def i17 = 1000 * 6i19 i12 i18 i12 Array i17 trait i17 val i17: Int = i13 }
+object i17 extends App {
+val i1 = new i0
+new i4
+}
+
+class i0 {
+trait i1[i2[_], i3] {
+override def i4 = this
+def i5[i6](i5: i4, i6: i4): Unit = i3
+implicit def i7[i1](implicit i8: i0[i1]): i2[List, i4] = i10
+}
+object i12 {
+val i12: i0[Stream[i12[Any, _]]
+type i12 <: i1[i10 collection[i1]]
+class i11(val i12: i1[Int]) {
+def apply(i11: i2[String]) = {
+i11(List(1, i4: i2[_]) yield i31)
+}
+
+object i0 {
+def i1(i2: Int)(i3: Int): Int = 2
+}
+
+class i0 { class i1 }
+trait i2 { i3: i0 =>
+type i1 = i2.i3
+type i4 <: i3
+type i5 <: i6;
+trait i4 extends super.i4 i1 =>
+type i3 = i5.i2
+}
+trait i4 {
+type i5
+type i2 <: i3
+def i6: i4
+}
+trait i7 extends i6 {
+type i7 = { val i7: i0 }
+type i8 = i6 { type i4 <: i6 }
+trait i10 extends i4 {
+type i11 = i8
+def ::[i8](i9: i10): Unit = ()
+val i11: i0[Int, Int] = i10
+val i15 = i9
+i6
+i15
+}
+
+object i0 {
+def i1[i2, i3](i4: String): Unit = (i2: Int) => i2 + this
+val i3 = (next) def i2[i4, i5](i6: i4): (i5 => i3)
+def i6(i7: i0[_], _: Any) = i3)
+}
+
+class i0 {
+def i1: Unit = {
+case i2: String | _ =>
+catch {
+case _: Int => -1
+}
+}
+}
+
+class i0 {
+def main(i1: Array[String]): Unit = {
+val i2 = new i0 {}
+i4 match {
+case _ =>
+} yield i1 {}
+def i2 = { implicitly[Int]; () } def i3(i4: => Any): Int = i3 }
+val i5 = new i0("i6 i11")
+}
+
+trait i0 {
+type i1[i2] = Map[i2, i2] => i3.i4[i5]
+implicit def i5[i2](i6: i1[i2]) = i7 match {
+case None => i6
+case _ =>
+}
+}
+}
+
+trait i0[i1]
+object i2 {
+def i3[i4, i5]: i6[i4] = sys.error("")
+}
+abstract class i6 {
+def i7: this.type
+}
+}
+
+class i0 {
+def i1(i2: String) =
+println(i2.i3)
+}
+class i0(i2: String) {
+lazy val i4 = 1
+def i5 = { case i2 => i6.toInt } def this() = this(i8) }
+}
+class i9(i10: String) {
+def i11 = _
+}
+abstract class i7[i8 <: i0[Int]](i11: ========[i11]) extends AnyVal {
+def apply[i2, i3, i4, i7](i2: i3, i6: Int, i7: i7, i8: String, i6: => Boolean, i7: Array[i9]): Boolean = null
+i7 = new i1(List(1), Seq(i9)) match { case i1 > 2i12 + i13 =>
+i13 try try 1 for println()
+case _: Int | collect => None
+println(
+i11
+)
+case 14 => false
+}
+}
+
+object i0 {
+trait i1 {
+type i2[i3]
+def i4[i5[_]](i6: i1[List[i4]]): i6[i3] = sys.error()
+val i8: i4[Int] = new i3[Int]
+}
+
+object i0 {
+type i1[i2]
+type i3 <: i2
+type i4 <: i3
+type i5 = i4
+val i6: List[i7] = i4.i6
+val i6 = i5
+i3.i4
+}
+
+object i0 {
+val i1 = Double
+}
+package i2.i3 package i0 {
+class i4(i5: Int) {
+def apply(i6: Int) = i5 i4 *
+}
+def i7(i6: Int) = i4
+}
+object i6 {
+implicit def i7(): Unit = {
+val i8 = new i0
+}
+}
+
+class i0 {
+implicit def i1: String = this
+}
+
+object i0 {
+val i1: collection.mutable.None
+def i2 = i1
+}
+trait i3 {
+val i4: List[i0]
+}
+object i5 {
+implicit def i6(i7: Int): String = ???
+}
+}
+object i8 {
+import i1.i3(i7)
+new i4().i5(new i6()) i2 match {
+case i0(None, i4) => println(i9)
+case _ => (i2, i13, i17, i13, i13, i12, i17, i15, i18,
+i19, i20, i16, i19, i21)
+}
+
+object i0 {
+def i1(i2: String): Unit = {}
+}
+class i3 extends i0 {
+override def i1 = this;
+val i2: Function1[String] = null
+val i4: AnyRef = new i2({ new i5 {})
+}
+}
+
+object i0 {
+val i1: Int => Int => Int = (i2, i3) => i6.i2
+}
+
+object i0 {
+apply 1
+println(i1: Int, i2: Int)
+def i3 = i1(1, 2, 3)
+}
+
+object i0 {
+val i1: List[i0] = new i0().i2()()
+}
+
+
+val i1: Int = 1
+def i2 = .asInstanceOf[i1] def i3(i2: String) = ???
+}
+trait i6 {
+def i7(i6: implicit => Unit) = { implicit i7: String => } i7 match { case _ => this }
+}
+
+class i0
+object i0 {
+val i1: Int = 1
+val i2 = new {}
+private var i3 = new Array[Int](i4);
+Console.println();
+def i5: Unit = i2() def i2(i3: i1): String = i5(i2)
+}
+class i2() extends AnyVal with i0
+
+package object i0 {
+erased def i1 = ()
+def this(i2: Int, i3: Int): Int = i1 * i2
+def i4(i3: i1): Int = (i5) with i0(i1, i5)
+implicit def i6[i4 <: Comparable, i5, i6 <: i2, i7, i8, i9, i10, i11, i13, i16, i17, i19, i20, i21](
+new i4: i3[i2, i3)](i5, i68) = i7
+val i9 = *
+type i9[i4] = i9[i6, i7] {
+type i2[i3]
+def i10(i11: i4): i1[i11, i12]
+}
+implicit class i10(val i3: Any) extends i7[Int]
+object i10 extends i8
+case class i10(i2: i3[i1, i1]) extends i4[i14]
+class i2 extends i4[Any]
+case class i11() extends i11[Int]
+abstract class i13[@specialized(Int) i16 with i1] {
+def i15[i16, i9, i10, i16, i4, i58, i12, i12, i19, i13, i19, i20, i20, i21, i14, i14, i13, i14, i56, i15, i16, i17, i16, i17, i19, i20: i0)(i14: i11, i12: i12) = (i8, i12) def i17: i0 = null
+case class i12() extends i6[i1, i2]
+object i13 extends i8[Int, i7] {
+val i11 = new i11
+val i13 = new i9
+val i13 = i7[i13, i12]()
+println(i11)
+}
+
+trait i0 {
+type i1
+type i2 <: i1
+type i3 <: i4
+trait i4 extends i2
+class i5 extends i2 { i3: i4 =>
+type i4 = String
+type i3[i7, i8, i8] => i3] = i7
+}
+object i10 extends i10 {
+val i11: i4
+type i14 = i12
+val i14 = null
+var i7: i6[String] = null
+implicit val i10: i4[i2] = new i4[i10[i2]]
+val i14 = i9[i10, String] _
+}
+
+class i0
+object i1 {
+def i2(i3: i0) = i4.i2
+val i4: i0.this.i1
+def i3(i4: i1): i2
+}
+trait i5 {
+def i6: i1
+final case class i7(i3: i0) extends i2
+implicit def i8(i9: i4): i6 = null
+}
+
+class i0(i1: Int, i2: Int)
+object i0 {
+val i3: Int = 1
+var i1 = ""
+val i4 = i1(, )
+}
+
+class i0(val i1: Int) {
+def i2 = new i0
+def i3 = List(new i0).i4
+}
+
+class i0
+object i0 {
+import i1.{ i2 } def i3: Int = 0 def i4: 3 }
+final case class i5(i6: Int, i7: i9) extends i5 {
+def i4: Unit = {}
+}
+
+import scala.reflect.{ classTag, ClassTag }
+class i0 {
+def main(i1: Array[String]): Unit = {
+val i2 = _
+i3 =
+val i4 = i3
+inline val i5: Any = i8
+}
+}
+
+object i0 {
+def i1[i2](i3: => Boolean = null): String = i6 match {
+case else() => i3 + i3 + i4 +
+}
+}
+
+object i0 {
+class i1[i2]
+implicit def i3[i2, i4 <: i2]: i4 = i3
+def apply[i1, i2](i5: i1[i2]): i2[i4] = null
+implicit def i3[i4]: i4[Int]
+type i5[i6, i7] <: i0[i7]
+val i8 = this
+val i9: Int, i9 = null;
+val i10 = new i2;
+var i12: i7[Int] = null
+}
+object i9 {
+import i10._
+implicit val i7: i7.i4
+}
+object i10 {
+def i9[i2[_, i2]] = new i5[i7] {
+type i9[i10] = i5[i6, i9]
+def i4[i5]: i1[i10] = new i1[i8]
+final case object i9
+}
+object i12 {
+def apply[i12, i20](i6: i14 => String): i11 = ???
+}
+object i15 {
+new i7( i5) {}
+}
+
+trait i0[i1 <: i0[i1]]
+trait i2[i3, i4] {
+def i5(i6: i1[i4]): i6[i4] = new i4[i1]
+def i2[i5, i6 <: i2]: i4[i2] }
+trait i7[i1[_]]
+trait i6[i7, i8] extends i10[i7, i10] {
+def i2[i14, i3](i4: i11): i2 = {
+trait i0[i10] {
+type i15[i16] = i6[i1]
+def i11 = i4[Int, Int](1, i33)
+val i17: i7[_ >: i12] => i12 = i10
+}
+
+abstract class i0[@specialized(Boolean) i1, i2](i3: i1, i4: i2 => List[i2]) {
+def i5[i3](i6: i3[i5]): i3[i1] = sys.error()
+}
+object i7 {
+val i8: i2[Boolean] = null
+def main(i6: Array[String]): Unit = {
+val i8 = new i6(1)
+println(i9)
+println(i9(i10 :: i4[i10].i13)(
+null) match {
+case i17: i1[_, _] => println()
+case _ =>
+}
+}
+
+
+)
+Console.println(i0).apply())
+}
+
+class i0 {
+def i1[i2](i3: String)(i4: Int) = ???
+i5[i2] = Nil
+}
+class i6 extends i0[Some] {
+abstract class i1 private (val i2: String) extends AnyVal { def i7 = (i5: i3) => i6 }
+}
+class i6 extends i2 with i5 {
+import i5._
+import i6._
+implicitly[List[Int]]
+}
+
+object i0 {
+trait i1 {
+abstract class i2
+class i3
+}
+object i4 {
+val i5 = new i1 {}
+class i6
+object i7 {
+def i8 = true
+private val i11: i2 = new i1
+val i13 = new Ordering[i1](new { _ =>
+i12: String, i13: i9) =>
+}
+}
+
+class i0 {
+def i1(i2: Int)(i3: Int*): Int = i2
+class i4(i5: i1)
+object i6 {
+def i7(i8: Byte = new i4())
+}
+class i9 {
+def i10(i11: Int): Int
+def i14: String =
+i11.i7.i9;
+}
+
+object i0 {
+trait i1 { def i2: Int }
+abstract class i3 {
+val i4: Any
+val i5: String => String
+}
+trait i6 extends Array with i2 {
+abstract class i2 {
+def i4 = i4
+}
+def i5: Unit = {
+val i8 = new i0
+import i9.i2()
+}
+}
+class i10 extends i2 {
+val i10: Any
+val i11 = 1
+}
+}
+trait i9 {
+val i10 = new i4
+val i11: i1 = new i1 { type i2 = i3.i4 }
+trait i11 extends i1 { type i2 = i0; val i9: i0 }
+val i11: i9 = null
+val i17: Symbol }
+trait i18 extends i3 { type i1 = i5.i12 }
+class i10 {
+def i4(i5: => Any): Any = ???
+}
+trait i9 extends i0 {
+implicit val i1: String with Nil = ???
+val i2: i3 }
+val i11 = new i4
+i6.update()
+val i10 = ???
+type i18 = i7
+val i19 = new i10
+val i13 = new i6 { implicit val i11: i7.i5 }
+implicit val i11 = {
+val i12 = new i6 {
+implicit def i17 = new i0
+val i11: Int = 10
+val i16 = 1
+val i21 = 1
+}
+object i15 {
+class i15 extends i7
+val i14 = i16 match {
+case List(_, _) => case _: String => println()
+case _ => println()
+case i12: RuntimeException =>
+case i11 :: Nil =>
+case i11: Int =>
+if (i12 == 1) < return assert flatMap def i15(): Unit = i11 match { case `i1` @ _* => `type` }
+val i15 = { () =>
+i11
+}
+i10.i10 i12
+}
+}
+trait i11 {
+type i16
+type i2
+type i13 <: i1
+def i7: Any
+}
+type i12 = i10#i1
+type i12 = new { type i4 = i12 }
+type i5 = i6
+val i10: i5.i1 = i7
+val i14: i10 = i12 match {
+case _: Int |> implicitly[Int]
+}
+class i9[i14](val i18: i0[_], i9: i10[i2]) extends i4[i1, i2] { def i9 = i4 }
+class i10 extends i0 {
+class i15
+implicit def i14[i3, i14]: i1[i10] = Nil
+}
+implicit val i15 = new i8 {
+def i4[i1]: i1[i9] = ???
+def i15[i15](i11: i7)(implicit i16: i10): i1[i2 => i14 forSome { type i1[_] with i12[Any] })#i6[Int] = i7(i9)
+}
+
+import language.i0
+trait i1 {
+trait i2 {
+type i3 <: i0
+private type i2 <: String
+trait i4 extends i2
+def i5: reflect.i4 = null
+}
+class i8 {
+def i9: String = new i7.i1()
+val List(i5: Int) =
+i9.i4
+val i14 = new i6().i5() {}
+}
+class i12() extends i0 {
+class i13(val i10: Int) {
+def i11(i2: Int)(i3: Int) = i14 * i10
+}
+class i10 extends i9
+
+package object i0 {
+class i1
+case class i2(i3: Int) extends i1
+case class i4(i5: i3) {
+def this(i6: i4) = {
+this(i5) yield i1
+}
+}
+trait i6 {
+def i2(): i0 = i6
+}
+object i7 {
+def i8(): Unit = {
+println(i9.i11 == )
+println(i1"i2 i10")
+}
+}
+
+class i0 {
+type i1[i2]
+type i3[i4, i5] = i2[i5]
+val i6: i2[Int] = null
+val i7: i0[i1, i3] = null
+val i8: i5[Int] = null
+val i12: i3[i2] = new i1[i2] with AnyRef {
+def i9(i10: i9[i1]): i3[Unit, Any] = i11
+}
+object i14 extends i0 {
+implicit def i11(i12: i1[_]): Int = 1
+def i15(i10: i1): i1 = if (true) (i10: Any, i11: i12) }
+
+object i0 {
+type i1 = Map[i0,Int, Int]
+type i2 = -1 def i3: i2[Int] = ???
+def main(i4: Array[String]): Unit =
+try return collection
+}
+
+object i0 {
+trait i1 {
+type i2[i3]
+def i4: i3
+}
+object i5 {
+def i6: i7 = i2
+}
+val i7: i4[Int, Int] = ???
+val i8, i9 = ???
+val i9: i4[i4, i4] = ???
+i9 i15(i13): Any match {
+case Some(i8) => i11 }
+i11 match {
+case i9 => ???
+}
+}
+}
+
+
+val i1 = '\i2'
+def i3: Int = 2
+}
+object i7 {
+def i8(): Unit = {
+var i3: String = ""
+def i11: Int = 1
+}
+object i17 {
+def i10(i11: String) = ???
+import language.dynamics
+def i11(i12: Int, i12: Int): String = ???
+val i15 = 1#0 = 0 * 'i26
+""": Any =>
+i11.i24 def i10(i10: Any): Unit = ();
+val i2 = new i1(i2 = 5, 23 = 10 * 20;
+val i13 = "".i10"")
+}
+trait i14
+trait i21 {
+def i3(i4: Int): Int = i11 + i11
+}
+class i10 extends i0 {
+def i13(i11: Int): String = {
+val i18 = this
+i11
+}
+}
+
+trait i0 {
+type i1[i2] = i2[i3]
+val i2 = 0
+}
+
+object i0 {
+def i1(i2: Int) = i2 match {
+case _ => new Seq(i4) println(i2 == i5 +  + i6.i7) println(i6.i5) } else new i7.i4 }
+}
+
+object i0 {
+abstract var scala.i1 {
+final case class i2(i3: Int) {
+def i4 = new i0(1)
+val i5 = i3(i4.i6);
+}
+}
+trait i6 { i7: i0 =>
+type i5
+def i6(i7: i4): i6 = i5
+val i6: i2 =
+for (i7) {
+(new i5).i3()
+}
+}
+
+class i0 {
+def i1(i2: List[_]) = i2 match {
+case _ => println()
+case i3 => false
+}
+}
+
+object i0 {
+class i1
+class i2[i3, i4](i5: i4, i6: i1)
+class i7[i1](val i2: i1)
+implicit def i5[i1](i6: Int => i2) = i6 match {
+case i7: i4[Any] => catch
+case _: i2[Any] => null
+}
+def i6[i7](i8: List[i7])(implicit i9: Array[i4]): i0[i6] = new { def i5 = new i0(23, )(2) }
+
+class i0[+i1] extends i0[i1]
+trait i2[i3, i4 <: i3] {
+def i5[i6 >: Nothing <: i0](i7: i4): i4 = { i6 => i6.i7 }
+}
+trait i8[@specialized i1] extends i0[i7, Long] with i8[i4, i8]] {
+def i4(i5: Seq[i3[i6]]): Unit =
+i5 {
+case i6(i2) => i6
+case Seq => i2(i9)
+case i7[i3, i4] => Some(i7)
+case None =>
+}
+}
+object i0 {
+def i8[i9](i10: i6): i7 = null
+def i11[i3](i11: i8[i9], i11: i3[i4 <: i14, i7: i2[i7])(implicit i9: i2 = i5): Unit => i11 }
+trait i18 extends i7[i2, Any](i4) {
+type i1 = i5
+}
+trait i6 {
+type i2[i5]
+type i9[i7]
+}
+abstract class i8 extends i0 {}
+object i9 {
+import i4._
+i8 +=
+8
+}
+
+case class i0[i1, i2](i3: i2) {
+def i4(i5: i0[i0[String]]): i4[Any, i1] = new i1[String]
+def i6[i7[_], i8](i9: i2[Any]): List[i3] = i9 {
+i9(i7 = 1)
+}
+}
+
+object i0 {
+trait i1
+val i2: i1
+}
+object i2 {
+implicit def i3(i4: i1): Unit = {}
+def i5(i2: i1): i0 = i3(i4)
+}
+val i6: i0[Int] = i7.i2[i3]
+val i8 = new i4[Int]
+var i9: i4[String, String] = i9[Int](i1))
+val i11: i8[Int] = i12(1, 2, 3)
+val i16 = i10
+}
+
+object i0 {
+def i1[i2](i3: i2)(implicit i4: Stream[i1], i3: i1[Int]): String = i2.map(i4);
+}
+}
+
+object i0 {
+def i1(i2: Option[String]) =
+new i1(new { def i3 = 4 }
+abstract class i0() {
+val i4: String;
+val i1: Int = i2;
+val i3: Function1[_, String]] = (i1 { val i1 = i1 })
+trait i4 { this: i1 =>
+type i1 <: i2;
+trait i3 {
+def this(i4: Int) = i3 * i4
+val i5 = new i0(new {
+case _: String) => Set[Int]
+}
+def i6(i6: String): i0 = { val i7: i6.i3; val i4: i5.type })#i6 { def i3(i7: Int): Int }
+i7(new i2)
+}
+}
+object i7 extends App {
+trait i1 { private def toInt: Int = 0 }
+val i4 = i6 { i2 =>
+}
+}
+
+object i0 {
+class i1
+class i2(i3: String) {
+def i4 = i1
+}
+class i5(i3: i1) {
+def i8(i9: Any): Unit = {}
+}
+implicit def i10[i11](implicit i11: i7[i2]) = i11 + i12
+def i14 = i10 || i15 { case i12(i13, i112) => () }
+}
+object i9 {
+type i1[i2] = { type i4 <: String } with i0 { type i1[+i2] >: String <: i4 <: i1[i2] }
+val i12: Int = ???
+val i2: i0[String]#i1[i2] = ???
+def i10[i4, i5](implicit i11: i6[i7, i8]) = i6 match {
+case i6: i4 => i7.head
+}
+}
+
+class i0 { def i1: Int }
+object i2 {
+implicit def i3(i4: => Any) =
+for (i1 <- 0 i5 new i4 {
+val i6 = i2"i5"i6 i3 i4{i5"
+}
+}
+})
+}
+
+
+} catch {
+case i0.i1 => i3 + 1.
+val _ = i2
+def i9 = "i4 i10 i5 9 i6 => true
+case _ =>
+}
+}
+def i12(i11: String): i10 = ???
+new i15 {
+type i16 <: Nothing
+val i18 = i10
+val i12 = '\i1'
+}
+
+package i0
+package i1 {
+package i2 {
+private var map abstract class i3(i4: Int)
+protected(i5: Int) object i6 extends i2
+object i7 extends i0
+case class i8() extends i1
+trait i9 {
+def this(i7: i0) { this }
+def i10(i11: i9): i10.this.i11
+val i13 = new i1 { type i2 = String } = ???
+val i14 = i11
+val i17 = new i16
+val i15: i6.i7.i9.i2 = new i2.i8 val i13 = new i4.i10.i10.i4 }
+object i10 {
+type i12 = i0
+implicit def i2[i3] = { val i4: i5.i2 = ??? } def i10(i2: Int) = i5 match {
+case _: i0 => true
+}
+val i9: i6 = i7 i2 match { case i9: i4 => i6 }
+}
+
+trait i0 { def flatMap[i1 <: Seq[i2]](i4: String, i5: i1) = new { def i3 = 0; println(); 3 }
+}
+case class i1(i2: Function1[String]) {
+var i3: Int = ""
+def i6 = i3 +
+case _ => i7
+case 2 => i7
+}
+}
+
+package i0
+class i1(val i2: Any) extends i3(i2, i4)
+object i3 {
+def i4(i5: i0): Any = i5
+}
+object i6 {
+def i7 = new i2()
+def i8(i9: Int = 0): Int = 1
+}
+object i10 {
+val i10 = new i0(42).i7
+}
+}
+
+object i0 {
+val i1 = new i0
+println(i1)
+if (i1) i2 }
+class i3(val i4: Option[String]) extends AnyVal {
+def Function1(i5: Seq[Any]): Unit = {
+val i6 = i3.i4
+}
+}
+class i7(i1: String) extends AnyVal {
+def i6 = new i4
+def i8() = i4;
+}
+object i1 {
+new i0().i6() }
+}
+object i10 {
+type i1 = Int
+def i2: Int = i7
+i4
+}
+
+trait i0 {
+type i1 >: Null <: i2
+type i3 = i1
+}
+class i1 {
+val i2: i0.i1;
+val i2: Nothing = sys.error();
+}
+}
+class i3 extends i0 {
+val i4: i0 { type i1 = i3 }
+type @@[i5, i6 <: i1] = i6
+type i7 <: i6 with i8
+type i8 <: i6
+trait i9 extends i3 { type i1 <: i2;
+}
+trait i9 extends i6 { def i12(i13: Int): AnyRef }
+object i12 extends i1 {
+type i13 = PartialFunction[String, i12]
+val i11 = new i6
+}
+object i16 {
+implicit def i14(i13: Any): i5 = i7
+val i9: i4.i1 = i5
+val _ = 1
+val i15 = i13 _
+}
+
+package i0;
+trait i0 {
+case class i1[i2]()
+}
+package i0 {
+class i0
+object i3 {
+def i4(i5: i1): i2 = i6
+}
+val i6: i0[Any] = new i0[String]
+val i6: List[_] = i2[_]
+implicit val i7: i5[i1] = new i0[Int] {}
+object i4 {
+def i6: i7.i2 = ???
+}
+object i8 {
+def i10(i11: i12, i12: Int) = ((i5, i10))
+}
+import i11.Serializable {
+case _: AnyRef =>
+i2
+}
+}
+class i12 {
+val i11: i9[Int]
+}
+trait i12[i9] {
+def i16 = this
+def i19[i2, i6[_]](i10: i10, i18: i12[i2, i11, i22, i13.i6, i13, i17, i18, i17, i18, i16, i14, i16, i14, i16, i14, i11, i13, i17, i14, i15, i16, i17, i16, i16, i16, i17, i15]: i12[i13, i16, i16, i17, i16, i16 <: i17, i16, i18, i12, i13, i14, i19, i15, i16, i17, i16, i16, i13, i15, i16, i17, i15, i16, i12, i19, i14, i18, i6[i10[_, Any]: i2[i4, i2, i10])
+}
+class i10 extends i0[Int, i9] with i4[Int]
+object i11 extends i4[String]
+object i13 extends i4[String]
+object i13 extends i12
+object i16 extends i4[i1[_]]
+class i10
+case class i13()
+case object i11 extends i0[i11
+object i18 extends super[i15[_]]
+implicitly[type[Int]]
+def i13[i14[_]]: i1[i9] = i11
+val i13: i0[i1, i2, i4, Nothing with Any] = ???
+import i10.i11 #:: i10 =>
+}
+
+class i0 {
+type i1
+def i2: Any
+}
+trait i3 { i4: i0 =>
+type i1 = Int
+}
+trait i2 extends i0 with i3
+
+class i0 {
+def i1[i2](i3: List[i2]) = ???
+}
+trait i4[+i1] {
+def i5(i6: i1[i4]): i2[i3, i6] = new i1[i4]
+}
+object i8 {
+def i9[i10, i20](i11: i4[i2]): i1[List, i11] = i3[i2, i2](i9)
+def flatMap[i1](i10: i2[i2]): i5[Int] = null
+}
+object i13 {
+def i15(): Any = i11 }
+
+
+object i0 {
+@inline def i1(i2: Int): Int = 1
+@i3 { 17 +  + 5 * i3 * i4 }
+def i3(i4: Int): Nothing =
+new i0.i5()
+}
+}
+
+class i0 {
+object i1
+class i2 {
+def i3(i4: String): String = ???
+}
+def i5(i2: i2): Unit = ???
+}
+(new i1).i6(23).foreach {}
+}
+}
+
+object i0 {
+def main(i1: Array) = {
+this({
+case _: Int | i2 => 2
+case 2 => implicit _ => () }
+}
+
+class i0[@specialized i1] {
+def i2[i3](i4: i3[i1]): Unit = {}
+def map[i2](i5: i2 => i1): i2 = ???
+def i6[i2] = new i0[Int]
+}
+object i7 {
+import i0.i5._
+class i6[i2] extends (i2 => i7)
+case class i8(i10: Int) extends i2[i3.type]
+def i11[i2](val i14: i1[_]) = i13.type
+val i17: String | i13 = i5(5) { def i15[i4](i8: i5): i4 =: i12 }
+def i15[i15](i18: i1) = ???
+def i10(i4: String) = new i6(i5)
+val i11: i6 = i10(new i10)({ case i12: i2 =>
+def i13: Int = i10(i9 :: null) i4(null: i4[i1, i2])
+val i14 = i12
+val i13 = i10 _
+def i14: i3[i11[Int]] = i13
+val i13 = new i2(1, )
+Console.println(i16)
+}
+
+package i0
+class i1
+class i2
+object i2 extends App {
+val i3: Set[_ >: i4] = ???
+}
+trait i4 {
+private[i0] type i5 = i5.i2
+}
+def i6: i3[this, i7[i2]] = sys.error()
+val i8: { type i4[i3] }
+implicit object i11 {
+implicit def i11(i12: Int): Int = i10
+def i14[i14[_], i5, i6](i14: i5[i12.i4[i4, i1], i17[i7]) = new i1[i2, i5]]()
+implicit def i14[i1, i14 <: AnyRef, i16 <: i1[i4]](implicit i10: i12): i16 = i15
+}
+
+object i0 {
+def i1[i2[_], i3](i4: i2[Int]): i2[List[i2]] = i2 match {
+case i5: i2[i3] => i6
+def apply(i6: i1[Int]): i2[_]
+}
+val i7 = {
+implicit def i8: Equiv[Int][Int] = null
+i9(List(1, 2, 3))
+Console.println((i11.i7(Set[Int, Int]))
+println(i5(null))
+val i10 = new i6
+i4.i8((i5: Int) > 0)
+}
+}
+
+object i0 {
+trait i1 {
+def i2: i3 = ???
+}
+}
+class i3 {
+type i4 = i3
+def main(i5: Array[String]): Unit = {
+val i6: i2 = i4.i4
+def i7(i8: String) = i6
+}
+}
+
+object i0 {
+val i1 = new i2
+val i2 = Nil
+}
+class i3 extends i0 {
+override val i1 = 3
+}
+object i2 {
+def main(i4: Array[String]): Unit = i1
+}
+
+trait i0
+object i1 {
+implicit def i2(i3: i4): i4 = i2(apply(i4))
+}
+object i5 {
+def i6(i7: i2): Int
+}
+class i8 extends i2[Int, Int] {
+override val i2 = new Array(1, 2) new i4 }
+def i9 = i10
+List(i7 == i10) match {
+case i10: i6 =>
+}
+i11.i7
+}
+}
+
+package i0;
+object App {
+object i1;
+case class i2(i3: Int)
+object i4 {
+def i3[i2 <: i1.type#i2](i5: i6 = i4 <: i3): i4 => this.i4 = i7;
+}
+}
+class i8 extends i3 {
+override val i1: Int = _
+i6 = i3
+}
+object i4 {
+def i5 = new i1('i2', '4')
+}
+val i3 = i4(new i2)
+def i10 = i7
+i9(i1(i7))
+}
+
+class i0(val i1: Int) extends AnyVal {
+def i2(i3: Int): String = i2;
+}
+
+object i0 {
+def i1(i2: String)(i3: i0.toInt): String = ???
+String(i3)
+)
+}
+}
+
+object i0 {
+val i1 = 1 #:: Stream.i1
+finally 50
+def i1 = 42
+val i2 = <i1>
+}
+package i0
+
+package i0 {
+trait i1[i2[_]]
+trait i3[i4[_], i5] {
+def i6: i3[i5]
+}
+trait i7 {
+type i1[i3, i4] <: i1[i4]
+type i6 = { type i7 = i4 }
+type i8[i9] = i7#i2
+}
+object i6 extends i1 {
+type i2[i1, @specialized i2] = List[String]
+def i19(i16: Symbol
+val i10: i12): i6 = ???
+val i10: i2[i1]#i3 = ???
+val i11 = i4
+i9
+}
+
+object i0 {
+trait i1 {
+abstract class i2 {
+type i3 <: i4
+type i5 <: i6
+type i4 <: i5
+class i6 {
+val i7: i3 = ???
+abstract class i8;
+trait i8
+def i9[i4 <: i6, i16 <: i1](i10: i6, i8: i8, i9: i8#) = ???
+i5(new i5).i4()
+}
+}
+object i11 {
+def unapply(i4: i0#i1) = ???
+}
+
+package i0
+trait i1[i2]
+trait i2[i3] {
+def i4[i5](i6: i1[i4]): i4 = {
+val i7: i0[i4] = None
+class i8(i7: i4) {}
+case class i21() extends i0[i4.type]
+object i13 {
+def i16(i10: String): i1 = i7(i5)
+}
+
+
+val i7 = ""
+val i17: Int = 4
+var i10: Int = 0
+val i11 = 10;
+i10.i10 = 2
+}
+object i12 {
+val i1 = new Array.i2(1)
+}
+
+object i0 {
+val i1: Option[_] = None
+final val i2: Int = 1 def i3(i4: Int) = (i3, Nil) => (i5, i6)
+}
+def unapply(i7: Any): Option[Tuple2[String, String]] = null
+def i8(i9: Int) = 1
+val i15 = new Exception (i11 + i13 )
+}
+
+object i0 {
+val i1: Int = 1
+override def i1(i2: Int) = null
+}
+object i3 {
+def i4(i5: String): Int
+}
+object App {
+val i6: (Int, Int) = () val i7 = 1 == i4(, 0)
+}
+
+class i0 {
+def i1[i2: reflect.ClassTag] = new Array[String](10)
+val i3 = Array()
+implicitly[Nothing[(Int, Int)]]
+new i2[Int]
+var i5 = Nil
+val i2: Array[String] = (1, 2)
+val i2: Array[Int] = i1[Int]
+implicit val i1: Int = i1
+val i10 = List(1, 2, 3, 3)
+val i8: ((Int, Int) => String) = (1, i10)
+def this(i1: => Int, i6: Int, i13: Int, i10: Int) = null
+i16(i11)
+i13(new i6(5))
+i14(this: i12[Any, i1[_, Any])]
+}
+
+class i0 {
+def i1 = {
+val i2 = i3
+Map(0 -> i3 - 1) 1: i2
+}
+}
+
+abstract class i0[i1 <: AnyRef, i2 <: AnyRef]
+trait i3[i2] {
+def ->[i4](i5: i4): i0[i1] = i4
+}
+object i6 {
+implicit def i7[i2](i5: i1): i2 = new i7()
+def i8(i4: Boolean): Int = 1
+def i7[i8](i9: i8): i7[i2] = i7
+class i9(val i1: Any) extends i6(i13): Unit
+def i10(i10: Int = 1)(i14: i1) = 1
+}
+import i1.{ i8, i3 }private var i15 = classOf[i1] forSome {
+case i11: i8 => println()
+case _ =>
+}
+}
+
+trait i0
+class i1 extends i0
+object i2 {
+def i3: i0 = this;
+val i4: i1 = new i0().i2() }
+
+object i0 {
+trait i1 {
+trait i2
+def i3 = 42
+def i4 = 3
+val i5 = '\012'
+'(';
+i2';
+'' ==() 'i6' println()
+val i8 = new i2
+val i9 = 2
+val i10 = i2"i16"
+class i15 {
+type i2 = (i11 => Any) = null;
+val i15 = i14 + i11 }
+i8.i9.i10
+}
+}
+}
+object i13 {
+def main(i12: Array[String]): Unit = {
+abstract class i16 {
+@i1 private val i1 = List(1, 2, 3, 3, 2, 3)
+def i4: String => Double with i10
+println(i4)
+}
+private def i10(i9: Any): String =
+val i12: 'i2 = new {
+def i2(i11: Int, i12: Int*) = ???
+val i11 = 1 }
+object i3 {
+def i10(i11: Int, i12: Int) = ???
+implicit erased def i11: String = new i10 {}
+implicitly[Nothing.i4.type]
+val i1: Any = i5.i4()
+}
+object i9 {
+def Byte(i11: Any) =
+implicitly[i1.type]
+}
+}
+
+package i0
+class i1 {
+def i2: this.type = i3.i4
+}
+
+object i0 {
+def i1(i2: Any) = {}
+i4((i3 => ()) + 1))
+protected else !! 2
+val i4 =
+i2 match {
+case Seq(_, _) => 42
+}
+def i5: { def i1(i7: i2): String } = null;
+def i8() = {
+val i10 = new i0
+i2() match {
+case i10() => 1
+extends _: Int @i0(i5', 'i6', i7: Int, i7: Int) : RuntimeException =>
+case None =>
+}
+}
+}
+
+trait i0 { type i1 }
+trait i2 { type i1 = i2 }
+trait i3 {
+type i4 <: i3
+type i5 = i4
+type i6 = i2
+def i7: i6
+abstract class i8 extends i4 with i5
+val i9: i4
+}
+
+class i0(i1: Int) {
+def i2 = 0
+override def i3 = () => 3 ()
+case List(i2) => i1 + i1
+case List(i4: String) | this =>
+}
+}
+
+object i0 {
+def i1(i2: Int) = {
+val i3: i2 = new i1 { import i2.{ toInt => i2() }); this
+def this(i1: Int) = { this() }
+}
+
+class i0(i1: Int) {
+def i2(i3: String): i0 = { val i4: i1.type } implicit val i1 = new i0.i1();
+val i5: i2 = { val i6: i2; def i4 = ; val i5 = i3; }
+val i4: i4 { def i6: 4 }
+trait i7 { this: i0 =>
+import i6 { i8 } catch { case _: Int | _ => i8.i5 } return val i11 = String implicitly[Int]; new i12(); i14.i10(i12(1, 2, 1, 2)) }
+}
+
+class i0 {
+def ?[i1 <: scala.reflect.i2]
+implicit def i3(i4: i1): i2 = i3
+def i5(i4: scala.i6): i0[i1] = new reflect.i6.i2
+}
+trait i7[i9]
+trait i7[i8, i9]
+trait i10 extends i7[_ >: i2] with asInstanceOf[i7] {
+val i7: i4 = ???
+}
+trait i11 {
+trait i11
+val i13: i4[i14] <: i2[i7, i10]
+def head = new i1[List, Nothing](
+i10(List: i4[_])
+}
+
+
+implicit def i18[i16, i17, i18, i16, i17, i18, i11, i17, i18](i26: i1, i7: i11, i18: Int, i13: (Int, Int, Int, Int, i22: Int, i7: Long) = 0
+val i11 = i14 += 16
+val i13 = 'i10'.i3
+}
+
+object i0 {
+trait i1 {
+type i2
+}
+trait i3 {
+def i4: Unit
+}
+trait i5 {
+val i6: i1 = i2
+}
+class i7 extends i3
+case class i1() extends i0 {
+override def i1 = this
+}
+class i3 extends i2 with i1 {
+Int i2 =
+trait i6;
+trait i2 {
+type i5
+def i4: Unit = {}
+def i5(i4: i4) = {}
+def main(i7: Array[String]): Unit =
+new i0().i6(_ < 0)
+}
+class i8 {
+def i3(i4: i1) = i7
+val i3 = i6 implicit val i6: i0 = i6(5, );
+class i6
+val i6 = i1
+val i7 = (i4: Int) => i6.i3
+val i7: i3.i2;
+val i8: i4.i4 = sys.error("");
+}
+object i9 {
+trait i1 {
+type i2
+def i5: i8
+def i9 = ???
+}
+trait i11 extends i8 {
+type i1 = i5#i2
+}
+object i13 extends i10 with i0 {
+abstract class i11
+case class i22(i4: Int) extends i7
+object i13 extends i1
+case object i11 extends i15
+object i11 extends i0
+case class i12() extends i5
+}
+object i13 extends i0 {
+val i11 = i13 _
+}
+object i14 {
+def main(i13: Array[String]): Unit = {
+val i14 = new i0 {}
+i0(new i0)
+}
+trait i11 {
+trait i11 {
+type i2 <: i1;
+trait i12 {
+type i12;
+trait i2 {
+type i1 <: i4
+type i2 <: i7;
+trait i6 {
+type i3 <: i6;
+type i7; type i1 <: i5;
+val i15: i1;
+trait i13 extends i5 { i13: i4 =>
+type i6 <: i11
+trait i7 {
+type i1
+protected[this] def i10: (i8, i11) = this
+}
+def i11: i6 = {
+val i15 = i9()
+var i11 = super.i4
+}
+}
+private class i9 {
+type i11
+type i3[i4] <: i10
+type i15 <: i10;
+val i12: i1;
+val i16 = ;
+def i10(i1: i2, i13: Int, i13: Int) = i9.i6 }
+
+package i0;
+trait i1 {
+(i2: i3) => i4
+case _ =>
+}
+}
+
+import scala.reflect.{ classTag, ClassTag }
+object i0 {
+type volatile[i1] {
+def i2: 3
+def i3[i4: ClassTag] = List(i4)
+println(i5 < true)
+i6(0, 0) + 5
+}
+
+class i0 {
+def i1() = 5
+}
+import collection.i1.i2
+class i3 extends i1[Int] {
+def i4(i5: i0): Unit = {}
+}
+trait i6 extends i0 {
+type i1 <: i2
+with i4 { type i2 = i3 }
+val i7: (Int, i2) => Unit =
+null: i4
+val i8 = i7()
+def i9 = new i3(i4 + i6)
+println(i9)
+i9 = i5
+val i10 = i6 || i10(i12) def i15()
+}
+
+object i0 {
+class i1
+def i2(i3: i1): Int = 123
+def i4 = (i2: Int) => i1;
+}
+import i0.{ i3 => String, _: Int, i4 @_*, i3(_, _*) } }
+
+object i0 {
+val i1 = <i2> }
+trait i3 {
+abstract var unapply = 8
+}
+object i1 {
+implicit lazy val i2: String = classOf[List[Int]]
+val i4 = i2.i3
+}
+
+object i0 {
+def i1(i2: Any) = {
+i1 match {
+case i1(i2) => implicitly[Int] new i1 }
+def i3(i4: String): i1 = null
+i4
+}
+}
+
+class i0[i1]
+class i2 {
+def i3[i4[_]](i5: i0[i1]): i1[i3] =
+sys.error("")
+val i6: i0[String] = new i0[String]
+val i7: i2[Int]#i3[Long]#i3 = new i4 {}
+}
+
+object i0 {
+type i1 = { def i2(): Unit }
+trait i3 {
+type i2 <: i2;
+val i4: i5;
+trait i5 { type i6 }
+trait i7 extends i2 { type i2 = i3.i4 }
+val i7: Int = i7(i5);
+def i7: i1;
+val i1: i6;
+}
+abstract class i8 extends i0 {
+val i10: i7;
+def unapply(i3: i4, i10: i1): Int = {
+var i11 = new i2
+}
+})
+}
+
+trait i0 {
+trait i1 {
+type i2
+type i3
+trait i4 {
+type i5
+type i6 <: i1
+type i4(i5: i0 = this.type)(i8)
+}
+trait i9 extends Any {
+type i10 <: i7;
+trait i10 {
+def i14(i1: Int): Int = i11;
+def i14 = i12(i13);
+def i15(i12: i0) = i11 i12: i11;
+val i15 = i14.i11;
+i11.i10.i15.i10(i21.i19);
+}
+
+object i0 {
+val i1 = 1
+val i2 =
+i1 = i1
+val i3: Int = 42
+val i4 = new i1
+new i3() match {
+case i4 => null
+case i3 => case "" if String => Some(i4)
+}
+val i5 = i2.i3
+}
+val i6 = new i2
+i8.i4(i5);
+}
+
+package object i0 {
+val i1 = 0;
+def i2(i3: i4) = i3.i4
+}
+}
+
+object i0 {
+def main(i1: Array[String]): Unit = ()
+}
+object i2 {
+def main(i3: Array[String]) =
+new i0().i4(new i3());
+}
+
+
+val i7: Float = 'i8'
+val i11: 'i2 = 'i12
+def i12[i4](i5: i4): i1[({ type i6 = i12[i6] })#i9[String]#i1[i2]] = ???
+}
+
+package i0
+class i1 {
+implicit def i2(i3: String): Int = 1
+}
+object i4 {
+println(i2 + i3)
+}
+})
+}
+
+object i0 {
+trait i1 { type i2; val i3: Int = new i0().i2(5); }
+class i4(implicit val i2: Boolean) extends Option;
+abstract class i3 {
+val i4 = new { def i5 = false;
+}
+class i6 {
+type i7 <: Int
+val i6 = 42
+i8.i4
+i5(i3)(i4(3)())
+}
+}
+
+object i0 {
+val i1 = 0
+var i2: Int = 0
+i1(i1) }
+
+class i0(i1: AnyRef) {
+def i2: Int = 1
+}
+abstract class i3() {
+val i4 = new i0();
+val i8 = i4.i3; new i3.i4();
+}
+
+trait i0 {
+val i1: 1 = 1
+trait i2 {
+private def i3: Int = 4
+def i4: i1 = i2;
+}
+def i5(i6: Int) = i2 * i6(i4 = 1, i4 : i3) else 3 }
+
+class i0[+i1] {
+type i2[i3] = i1[i2]
+val i4 = i2.toString
+}
+}
+
+package i0 {
+trait i1
+def i2(i3: Int): i0 = null
+(i5: Int) => i1(i3)
+}
+
+class i0 {
+final val i1 = 1 def i1(i2: Int) = i2 match {
+case i3(_) => println()
+}
+def i4 = {
+val i5 = new i0("")
+}
+
+object i0 {
+val i1: Int => Boolean = contains(i2)
+}
+object i2 {
+def i3 = new i0
+def this(i1: Int) = i1 * i1
+}
+class i4 {
+private[this] def i1 = 0
+}
+class i5 {
+implicit class i3(i4: Int) extends i0(i5, val i5) {
+def unapply(i4: Int): Int = 0
+}
+object i8 {
+def main(i9: Array[String]): Unit = {
+val i7: Int = 30
+val i11 = new i4(1, 2)
+} with i2
+abstract class i10 {
+abstract class i1 {
+def i2: Int
+def i1() = {
+var i2 =
+new i2()
+}
+implicit def i11 = ""
+val i11 = new i10
+println(i9)
+new i1()
+}
+}
+
+package i0 {
+trait i1 {
+type i2 <: i3
+val i3: i4
+type i4 = i3
+def i5: i7;
+}
+}
+trait i8 extends i2 {
+type i1 <: i6;
+trait i11 {
+trait i11;
+def i13(i1: i2) = i5(i13, i4, );
+def i13: i2 = new i14(i13).i4();
+}
+case class i10(i2: Int)(i7: i4) {
+def i2: List[i0] = Nil
+}
+class i10 extends i2[i6, i9]() {
+def i11(i3: i4) = i8.this
+}
+class i10 extends i4 {
+i9 Integer i14
+val i15 = i5
+}
+val i18 = new i5()
+val i13 = i10
+List val i17 =
+this match {
+case Some(i8) => println() case _ => ClassTag type i18 = i12; type i9 = String; this
+}
+}
+trait i9 extends i3 {
+override def i1[i4](implicit i7: i4 <:< i6): i0[i6, i7] = i5 match {
+case i7(i9) =>
+}
+}
+}
+package i8 {
+trait i10 extends i2[Int]
+def i10[i11](i9: Class[Int]) = i14 i12 match {
+case i6(_) => if (i9 <- i8)
+def i13[i14[_, _, _]](i10: i6[i6]): i1[i2]
+}
+trait i10
+class i11[i9] extends i12[i2]; with i0[i13] with i8
+case object i11 extends i10[i2]
+}
+object i11 {
+class i2[i9, i10]
+def i20[i15 <: String](i5: i7 => i6): i4 = i5
+}
+object i11 extends i6 {
+type i5 = i10;
+def i2[i4](i5: i9[i4]): i7 = i9
+val i10 = i10 def i14: Any => Any = i9
+def i14[i7, i8[_]](i13: i2[i9]): i2[i5] = i11
+val i13: i1[i6, Nothing] = i9
+val i13 = (i4 < i6)
+}
+
+class i0 {
+private var map = Map[Class[_], mutable.i1[List[AnyRef]]]
+val i2 = Array(, ) match {
+case i3(_, _*) => 2
+case scala.i4 => case _ => for i4 <- 1 i5 <- i6(i7) += 1 }
+def i8(i9: Any) =
+else
+else.i10 else identity("")
+}
+}
+
+trait i0[i1 <: i0[i1, i2[i5]], i3[i4 <: i5[i1]]] extends i0[i2[i2]]
+
+object i0 {
+def i1(i2: Int) = i2
+class i3(i4: Int, i5: Int)
+class i6 extends i1
+}
+
+object i0 {
+abstract class i1 {
+def i2: Unit =
+i1 match {
+case (i3 @ 'i4', 'i5', ' ', 'i6', ' ', 'i5', ' ', ' ', i6)
+case else 4 => i6 + i2
+}
+List(5)
+}
+
+
+sealed erased def i14: Int implicit if i20) =
+new i2
+class i26 extends i8
+final case class i7(i5: String, i9: i2) extends AnyVal object i16 extends i4
+case object i11 extends i7
+object i10 extends i4 abstract class i5(i6: Int
+def i10(i7: String)(i25: String) = i2.i3()
+def i10(i10: i1) = i6(i5) with i1 {
+def i11 = i4
+}
+class i15 extends i4 with i4 {
+def i11 = new i6(i10);
+import i10._
+import i6._
+def i10(i7: i3): Unit = {}
+i10.i5 = i4;
+val i15 = i13
+}
+class i6 {
+val i2 = i7.i2
+}
+class i12() extends i0(i6, i12) with i13 {}
+object i16 extends i0
+case class i14() extends i2
+object i11 extends i0
+case class i16() extends i0
+object i12 extends i0
+case class i16()
+new i2() with i1
+object i15 {
+def i13(i13: String): Int = 1
+}
+object i11 {
+def i2(i11: i8.i1[String]) = i12.i6(i7)
+}
+
+class i0[i1] {
+def map[i2, i3](i4: i1): i2.i3 = new i0().i4(i5) }
+
+package i0 {
+package sealed {
+{
+throw new Exception {
+i1 match {
+case i1: i2 => i1
+case 2 => 1
+case 181 | 2 | 187 | 201 | 2 }
+}
+
+class i0
+object i0 {
+trait i1 { private[this] val i2: Any = Some(new AnyRef { null.i3) match {
+case _: String | String => Console.println(); case _ => }
+}
+
+object i0 {
+class i1
+}
+class i2[i3 <: i0]
+object i4 {
+implicit def i5[i6](i7: i3[i2]) = i4 match {
+case i5: i2 => i4.i5
+case _ => throw new i4()
+}
+}
+
+trait i0[i1] {
+def i2[i3](i4: i3): i2 = sys.error("")
+object i1
+}
+
+object i0 {
+val i1 = '\0'
+val i2: Int = 30
+case i3: Tuple1[_,String]]
+i1 match {
+case i4 @ _ =>
+}
+}
+
+object i0 {
+<i1>i2}: </i1></i1>{i5}"
+type i9 = i5.i2
+val i9: i8#i2 = new i2 {
+type i1 = lazy def i11: i5[i1];
+case class i16() {
+val i11 = i10
+}
+val i13 = new i14
+def i14 : implicit i12 = new i1
+val i15 = new i16.i11.i12
+var i19: Int = 1
+private val i15 = new i11
+}
+
+class i0 {
+type i1 = String
+}
+
+object i0 {
+type i1 = List[i1] forSome { type i2[i3] }
+trait i4 { def i5: Unit }
+trait i6 { type i5 <: i1 }
+trait i6 { type i5 }
+val i7: i4 = new i7 {
+val i8 = new i7
+type i8 = i6
+val i14 = i11
+val i17 = i12
+abstract class i12 { i13: i10 => }
+}
+
+class i0 {
+def i1 = {
+lazy def i2 = true
+i2 }
+def i3(i4: Int)(implicit i5: Int): Unit = {}
+}
+}
+}
+
+object i0 {
+def i1(i2: Int)(i3: String, i4: Int) = i2
+def i5(i4: String): Unit
+def i6(i2: String = )
+}
+import scala._;
+package object i1 {
+class i2(i3: Int) {
+def i4 = i3;
+def i8: String =
+==(i2, i2);
+println(i3.length);
+}
+}
+
+package object i0 {
+val i1 = new i2
+def i2 = {
+import i0.i2
+}
+def main(i3: Array[String]): Unit =
+i0 match {
+case i4: i3[_] => println()
+case 5 :: Nil =>
+case _ => Set[Int]()
+case None => case _ => println()
+case i5 =>
+i3 match {
+case i6(i7, i8) => println()
+case _ => ???
+}
+}
+object i10 {
+implicit def i9(i4: i0) = new i2()
+}
+
+class i0 {
+val i1: Int
+def i2(): Unit
+protected def i3(): Unit = {
+val i4 = i1 contains i4
+}
+val i5 = new i4
+val i6 = new Array
+(null: Any) match {
+case _: Some[i3] => println()
+case i2(None) => case _ =>
+}
+}
+}
+
+package i0;
+abstract class i1 {
+type i2;
+class i3() {
+}
+new i3 {
+val i2: i1;
+val i2: i0 = null;
+val i4: i1;
+val i5: i4;
+def i6(i7: i0): i4.i2 = i7;
+val i5 = i4;
+}
+case class i8(i9: Double) extends AnyVal
+class i14()
+object i11 {
+implicit def i11(i21: List[_]) = i12(i13)
+}
+}
+}
+object i1 {
+def i2(i11: i4): i1 = i12(i9)
+implicit def i11(i12: String): i14 = ???
+def i10(i5: Any)(i9: i2): String = ???
+}
+trait i11 extends i0 {
+def i12(i9: i3): Unit;
+def i15(): i1 = i5 match {
+case i11: i2 =>
+val i14 = new i10
+i9
+}
+}
+def i11(i2: Int = (i14: String) => i11.i9(i13) }
+
+final class i0
+class i1(i2: Int) {
+def i3(): Unit =
+new i0().i4()
+}
+
+
+0=
+) match {
+case 8 =>
+i2
+}
+}
+
+object i0 {
+trait i1 {
+val 16 = 4
+}
+abstract class i2 {
+type i1 >: Null <: i0 with i1
+trait i3 extends i1
+class i4 extends i3 abstract abstract class i5 extends i3 {
+type i6 = i4
+}
+class i7
+for {
+i5(i6) match {
+case i4 _ =>
+}
+}
+}
+
+package i0
+trait i1[i2, i3]
+class i4(val i2: i1)[i2](val i5: Int)
+class i3 {
+def i6[i7](i8: i7 => i6): i6 = null }
+class i9 {
+def i10(i2: i3)(implicit i15: i4[i1]) = i16.update]
+}
+object i1 {
+import i0.{ i20 => ??? }
+}
+}
+object i19 {
+def i11(i1: i8[_]) =
+for {
+case i5: List[i4] => sys.error("")
+import new
+def i1 = i14 new i1
+val i13: i7[i10, _] => i4 = null
+def i14(i1: i6): Unit = {}
+}
+object i14 {
+case class i14[i2, i11](i18: List[i1])
+val i9: i8[i9] = ???
+def i14[i16 <: String] = Some(i6)
+def main(i13: Int, Array[AnyRef]) =
+i15.map(new i4().getClass.error) }
+
+object i0 {
+type i1 = Map[String, String <: String]
+val i2: Int = 10
+i1 = i1
+}
+type i3 = { def i4 = 2 }
+object i5 {
+trait i6 {
+implicit def i7: Int = 1
+}
+val i8 = new i5
+println(i11.i21) }
+
+abstract class i0[+i1, i2]
+trait i3[+i4]
+trait Nil {
+type i3
+def -> *[i2, i3 <: i2[i4]]: List[i3[i3[i3]]]
+}
+trait i4 {
+type i5[i6]
+}
+trait i7 extends i2 {
+private var i5 = 0
+case class i6(i7: i0[Int, Int])
+Console.println()
+}
+}
+
+class i0(i1: Int)
+trait i2 {
+val i3 = 2;
+}
+abstract class i0 {
+type i1 = i2
+abstract class i2 {
+private[this] def i4 = 42 match {
+case _: Int => false
+case _: Array[Any] => Some(i3)
+}
+println(i3(2).i4)
+}
+}
+
+class i0(i1: Int) {
+val i2 = i2 else this.toString
+def i3(i4: String) = i4"i5"" { i6 =>
+if (i5.head) this match { case i6(i7) => i5 * 2 }
+}
+class i6 extends i4 {
+override implicit object i7 extends i1 {
+def i3: i2 = this.i5
+}
+trait i6 {
+type i7
+val i5 = 
+}
+new i3 {
+val i4 = new i0
+}
+}
+
+package i0
+trait i1[i2, i3, i4] {
+protected[i3]
+def i4: i4[Int]
+def i5: Unit = {
+val i4: i0 = i6
+val i7: i3[Object] = List.i4[Int]]
+val i8: i3[List] = new i8
+val i9: i3[Int] = new i0[i5]
+val i10 = i5('i2)
+i8: 'i2[i3]
+val i6: i1[Int] = null
+val i7: i0[_]#i1[Int] = null
+val i10: i8[i1[Int]] = i1[List](1 ) yield i11 != 1
+val i14 = 10
+type i18[i9, i18, i17] = Int
+}
+
+
+0& (List(1, 2, 3), 180, 10)
+}
+
+import scala.reflect.{ new, String] }
+object i0 {
+def main(i1: Array[String]): Nothing {
+case _ =>
+case List(Some(Array.i2 => i3) => println()
+case _ => false
+}
+}
+
+package i0
+package i1 {
+class i2 {
+def main(i3: Array[String]): Unit = {
+i2(1)
+} Comparable { i2.i4 } def i5(i6: Int, i7: Int)(i8: Int) = ()
+i2(1, )
+i1(new i0 with i1 {})
+i2.i1(i3)
+}
+}
+
+object i0 {
+def i1(i2: Any) =
+i2 match {
+case i3: i4 => i2 =
+i3 => 1
+case _: i1 => i2 => ()
+case i4: i4 { case i5: i3 => false;
+}
+}
+import scala._._
+import i1.{ i3 => Boolean }
+def i7[i2[_], i3](i7: i2[i1]): i2[Throwable] = new i2[i2, i4, i5](i6)
+def i7[i8[_]](i9: i1)(i10: i8[i1, Any]) = i10(i6)
+implicit final class i10[i2](val i11: i8) extends i0[i9, i9](i10)
+abstract class i12() extends i6[String]
+object i10 {
+implicit def i11(i12: Int) = i12 match {
+case i8(i9) =>
+case i8 => true
+}
+def i12(i3: List[String]) = i10 match {
+case i6(i12) =>
+case i20(i13) => i4
+}
+List(i13).map(this))
+println(i10 == i6)
+Console.println(i14.i5(42)) println(i13: i0[Any]) match {
+for null val i17: i4[Int, i3] = null
+}
+}
+import i0._
+object i9 {
+def i10[i2](i12: i1[i7]): i6 =
+i11(i9.i3(i4) var i5 = new i7[String](1) }
+
+object i0 {
+type i1
+type i2 = { val i3: i0 } = null;
+val i4: i0 = i4;
+var i5: i1.i2;
+val i6: i5.i1
+}
+trait i7 {
+def i8(i9: i2): Unit Array def i10(i2: Int = i2): Unit =
+i6.i1();
+def i10() = i11;
+def i14(i12: i1): i1.i2 = i4
+}
+object i13 {
+val i12: i9.i1
+}
+implicit class i15()
+val i15 = i5
+val i10 = new i4.i10(2)
+def i10(i11: String = ): Unit = {
+val i15 = new i9();
+val i15 = i10(i5);
+val i12: i0.i1 = true
+final val i10 = i10.i4
+def i15(i12: Int) = i11 + i12(i12)
+implicit val i11 = new i10()
+}
+}
+import type i13 {
+def i14 : i1;
+type i12 <: i10;
+def i16: i1;
+}
+}
+object i13 {
+implicit def i2(i11: i4): Any = i9(i0);
+}
+class i16 extends i2 {
+private def i11() = this.i3()
+}
+class i10 extends i7 with i5 {
+val i10 = i10(i5);
+println()
+case i9 @ List() => println()
+}
+}
+class i10 extends i10 {
+def i7: Unit = i2;
+def i17: List[i9] = i10
+type i12 = List[i5]
+type i13 = i12; type i12 = i12; type i12 <: i11; }
+}
+trait i10 extends i2 { i7: i4 }
+val i9 = new i6(???)(i9, i5)
+def i15(i11: i1): i0 = null
+implicit def i14(i5: Any): Int = 1
+def i14(i12: i7 | i11): i6.i1 = i11 match {
+case i10(i9) =>
+i8.i6 match {
+case i4(i5) => 1
+}
+var i7 = 0
+i7 = i5
+val i10 = i8
+val i10 = i6.i2()
+val i11 = i2
+}
+val i15 = i11.i13()
+i6.collect.i5.i1;
+} List {
+val i12: Int = i12
+}
+val i11 = {
+super.i11
+}
+}
+}
+
+class i0 {
+def unapply(i1: Boolean) = this match { case List(i2, _) => Console.println(); 1 }
+}
+trait i3 {
+private[this] def i4(i5: Int): Int = i1(1, )
+i1(new { def i3 = "" }) match {
+case _: Int, Some(_, _) =>
+i2 match {
+case None =>
+}
+}
+
+object i0 {
+def i1[i2](i3: PartialFunction[Any, Unit]) = i3 { i4 }
+}
+
+class i0 {
+def i1 = (new i2)
+val i3 = new Array(1, 2, 3)
+val i4 = new i1
+val i5 = i2 val i6 = new i0
+val i5 = i1
+i4 +  + i4
+}
+class i8 extends Dynamic {
+def i9(i10: Int): Int = i1
+}
+def i10(i11: Int): Unit = {
+def this(i1: Int) extends i1(i2) with i2
+def i10(i11: Int): String = i5
+}
+class i11(val i11: Int)
+implicit class i14(val i11: Int) extends i0
+object i10 {
+type i9 = i0.i7.i2
+override def i10(i4: Int = 10) = i5 + i1;
+var i14 = Exception
+}
+
+
+trait i0 {
+trait i1
+}
+object i2 {
+def i3(i4: String, i7: String) = i5()
+}
+}
+
+trait i0 { def apply(i1: String) = 0; def i2(): Unit = {}
+class i3 extends i1;
+def i4 = { 021; case _ => i3 } }
+i1()
+}
+
+import scala.language.dynamics
+class i0 extends scala.Dynamic {
+def selectDynamic(i1: String): Option[String] = sys.error("")
+}
+object i2 {
+def i3(i4: String): Int = i3
+def i5(i6: Any) = i1(i4)
+def main(i7: Array[String]): Unit = {
+val i8 = new i2();
+trait i6 {
+type i1 <: i6;
+trait i7;
+trait i8 extends i8 {
+type i1 <: i2;
+type i3;
+type i4 <: i3;
+def i8: i1;
+}
+trait i10 {
+abstract class i15 {
+def i10(i7: i4): Unit = {}
+}
+}
+import scala.reflect.i12.i3.i5;
+class i12() extends AnyVal {
+def i11: i6 = {
+val i11: i10 = null;
+val i13 = i10.i3();
+()
+}
+}
+import i1._
+class i1 {
+def i2: Int = 1
+}
+object i3 extends App {
+val i10 = this;
+val i10: i6.i1.i1.i3 = i9;
+i10.i3(i9.i4());
+def i16(i2: i1): i11.i2(i7 = new i6) with i10(i12) }
+class i9 extends i9
+
+object i0 {
+trait i1
+trait i2 extends i1
+trait i4 extends i2
+trait i5 extends i2 {
+type i1 <: i0
+val i6: i4
+}
+trait i7 extends i2 {
+override def i2: Int
+}
+val i7: Int = new i0 {
+val i1: i2 = null;
+private[i0] def i10(i4: Int): Unit = {}
+}
+}
+object i1 {
+import i7._
+val i8 = i7
+private val i9: i9.i7 = i14
+}
+class i10 extends i0 {
+type i1 = i10
+val i11 = new i15
+type i13 = i11.i2
+def i15: Unit = {
+implicit val i7: i5.i1 = null
+}
+}
+
+trait i0[+i1]
+case class Nil[i1](val i2: i1) {
+def i3(i4: i1): i2 = sys.error("")
+}
+class i5[i1](i6: Int) extends AnyVal import Option {
+def i4(i5: i0[i1]): Unit = {
+val i6: i4 = new i1().i5()
+}
+}
+
+class i0(i1: String) {
+def i2(i3: String) = 0;
+def i4 = {
+val i5 = i3
+val i6: i4 = null;
+Console.println()
+}
+}
+class i7 {
+val i2: String =
+val i6 = new i0
+val i7 = classOf[Object]
+println( + ) println(); this } new i4.update(0, 4((i7, i5))) }
+}
+
+object i0 {
+class i1
+class i2
+object i3 {
+assert(i4)
+val i5: i0 = i4.toString
+}
+def this(i6: i1) {
+def i7(i8: i6): i6 = null
+}
+object i10 {
+implicit def i15: i4 = i5 val i11: i8 = null;
+type i16 <: i12;
+type i19 <: i12;
+private var i11 = {
+Console.println()
+}
+}
+object i13 {
+class i10(i2: Int) {
+private def i14(i11: Any) =
+i2 match {
+case i13: i4 =>
+i7 match { case i10(i11, i12, i13)) }
+}
+trait i11 extends i5 { type i1 <: i2 }
+trait i5 { i1: i4 =>
+type i4 <: i1
+val i9: i4;
+}
+abstract class i11() extends i6 {
+def i14: Unit = {
+val i11: List[Int] = i12.i10 match {
+case None => ???
+}
+}
+}
+}
+object i17 {
+def i10(i11: i2 => i4): Unit
+def i13(i14: Any): Option[i0] = None
+abstract class i10() extends i10
+println()
+}
+}
+object i13 extends i0 {
+abstract class i11 { i2() }
+}
+abstract class i7 {
+implicit def i10(i10: i4) = new i2()
+val i12 = i12
+val i11 = new i2 { i12: i8 =>
+case _ => new i15
+case _ =>
+}
+}
+}
+}
+
+import language.higherKinds
+"" match
+object i0 extends i1
+case class i2()
+case class i1() extends Throwable
+case class i2() extends i0() {
+def i3 = new i0
+val i1: i0 = new i0(new i3().i4)
+}
+object i5 {
+def i6(implicit i7: i0): i2 = new i7()
+def i8(i10: Seq[i4]): Unit = {} }
+object i10 {
+def i11() = {
+class i10();
+implicit val i2 = new {}
+i11.i10.i21
+}
+}
+abstract class i9 {
+type i1 =
+val i2 =
+val i2: i0
+val i9: i{
+val i10 = new i2
+def i14 = new i1()
+}
+}
+
+object i0 {
+def i1 = {
+lazy val i2 = new i0 {} match { case 42 => 2 }
+trait i3 {
+var i4: Int = 0
++ 1
+}
+}
+
+
+Console.println(i1(Int)) yield { (i10 + 1) <- 1 i2 5 ; 0 }: Ordering {
+case _: mutable[String] => -1
+}
+implicit def i11: Int = 1.0i16.9
+type #@
+def i1() = {
+val i2: Int = 10
+None trait i3
+def i4(i5: Seq[_]) = i6 match {
+case _: Int |> println Console.String = this match {
+case List(1, _*, _*,
+i5,
+i6,
+i6,
+i8
+) =>
+case None => 0
+}
+def i7 = i10 @ 5 = i11
+i5, i13(i14, i13, i13, i12, i13, i19, i16, i19, i17, i16, i19, i2, i19, i26, i19, i20, 'i2', 'i2'), i36 : String, i16: i1, i16: Int, i18: Int, i2: Int, i6: Int, i10: Int, i16: Int, i18: Int, i9: Int) =
+println(i11)
+println(i14"i13 i26 ")
+val i13 = i10
+match {
+case _ =>
+case i12 =>
+}
+i11.i10 = new i2.i4
+var i14 = classOf val i16 = i12 _
+}
+abstract class i16 extends Dynamic {
+def i1(i9: Int) = i4
+}
+trait i11 { private val i1: Int = i2 - 1 }
+def i14[i6] = Int { def i2 = new i0 {} }
+object i18 extends Serializable { trait i10 }
+private import scala.language.{ flatMap override def i7[@specialized i5] <: i1 with i4 { type i1[i1[i2]] }) = i7 match {
+case i11: Int => println()
+case _ =>
+i13 case _
+}
+object i19 {
+def i22(i12: Int) = i13 match { case _ => i15 =>
+type i16[i3] = i12 type i13 = String }
+def i15(i4: Any) = ???
+def i15[i15](i11: i0[i11, i14[_]]): Int = ???
+implicit final def i17(i11: String): Int = ???
+implicit final def i14[i15, i5, i17, i98](i8: i11): Int = (i11: i7, i13) => i12 => (i11 <= new i16(5)
+def i15[i16, i12](i14: i14[Int, Int]): String = i10 match {
+case i11: i8[Int, String] => None
+case i11: i4[_, Int] => _ }
+object i11 extends App {
+def i12[i4, i5, i9](i12: i7, i8: i10) = if (i4 < i5) match {
+case Some(i9) => i8* case _ => new i4(this)
+val i10: implicit i1 => reflect.i5 = _ }
+}
+
+trait i0[i1] {
+def i2(i3: i1): i0[_ <: i3] = sys.error()
+}
+object i4 {
+def i5(i6: String): Array[i2] = new i3[Any] {
+def i6(i7: i3): Unit = sys.error()
+implicit def map[i8]: List[Int] = new Array[Int](0).i3.map(identity) }
+trait i11[i2 <: i0] {
+def apply[i12](i4: i7 = i11): i0
+def i15(i16: Int = i11): i1
+}
+class i19 extends i0[i7, i1] {
+def i11(i15: i16): Unit = {}
+class i11 extends i8 with i0[i4, i9[i2]] abstract class i16[i7, i8] extends i0[i1, i2, i7[i2, i12]]
+trait i10[i3[i4 <: i6], i8[_]]
+trait i10 extends i4[Any, i3]
+trait i10 extends i0[i7, i10]
+trait i11[i16] extends AnyVal class i13 extends i2[i1, Boolean] trait i14 {
+type i2 = Stream[i4.i8]
+type i7[i2] = i7[i2] }
+trait i14[i7, i8] extends i0[i7] with i0[i1, i8]
+trait i15[i1]
+class i28[i6, i7] extends i7[i30 {
+type i8 = i7[i9]
+def i10: i3[i10] = new i1[i2]
+def i11[i2](i12: i1) = i12 match {
+case i12(i4) => i13 = i14 match {
+case i10: i2[Int] => i15
+def i17: i1[i2] = new i14(new i15 finally 10)
+case i6 => }
+}
+trait i11[i9] extends i0 {
+type i15[i2] = i7[i9]
+type i19[i2, i5 <: i6, i14 <: i6, i16 <: i6, i7, i8, i17, i6 <: i7] = i16 with i16[i7]
+type i18[i8, i10, i16 <: i1[i2]] <: i1[i13, i4]] {
+def i10[i2, i8, i9]: i12[i9] = new i4[i1]
+i9
+}
+
+import scala.i0.i1 import return
+package i0
+import dotty._
+class i2 {
+def i3(i4: Int): String = ???
+def main(i5: Array[String]) = {
+val i6 = new i0
+}
+object i7 {
+implicit def i8(i9: String = "" match {
+case i0(i8 @ i0()) => 1
+case i2(i9, i7) => }
+def i8 = {
+trait i9 {
+def i12(i5: Int) = { import i12.i5(i12) }
+}
+package i1;
+package object i1 {
+import scala.i2.i2
+}
+}
+
+trait i0 {
+def i1[i2](i3: String)(i4: Any): String =
+match { case i5 @ i6 => () } def i7: i6 = ???
+def i5: Unit
+def i9(i2: Int): Int
+def this(i7: Int) { this() }
+}
+
+
+}
+
+package i0 {
+trait i1
+def i2() = this + i3
+}
+class i3(i1: Int*) extends i0[Int](0)
+class i4 extends i0 {
+override def toString =
+}
+trait i5 {
+val i6: i0 = ???
+def i7(i8: String): Unit = ???
+}
+i2[i2](i3))
+val i6: Any => Any = new Array(1, 2, 3)
+val i5 = new i0[Int](10)
+def i2[i3](i4: String): Boolean = i5 contains 1
+List(i4) Some(this)
+println(i1(5))
+}
+
+object i0 {
+def i1(i2: Int)(i3: Int*): Unit = ();
+val i1: (String, val i2) = null;
+}
+
+object i0 {
+def i1[i2](i3: Int) = i2
+def i4[i3 <: i1](i5: i4) = i5 match {
+case i0(_, i3) => true
+}
+def i6(implicit i5: i1[Int]) = i6 match {
+case None => return i7.toList
+println(i5 + i6)
+}
+}
+
+package i0
+trait i1 { def i2: Any }
+trait i3 { val i1: Int => } }
+object i4 extends App {
+def i5 = { println(Map('i6') }
+i11: Object = true
+val i6: Any = i4
+val i7 = 2
+override final val i8 = new Array[String](10)
+val i3 = new Array[Unit](5)
+assert(i0(2, 2))
+else
+i0.i3 += 1
+}
+
+object i0 {
+val i1: Any = new { def i2: Int }
+class i3 extends i0 { override def i1 = super.i1 }
+object i4 extends i1 {
+val i2: Int = 1
+}
+
+class i0(i1: Any)
+object i2 {
+lazy val i3 = new Array[String](10)
+new i0().i4: Array[Int] 2 implicit object i5 extends i3.length == i3 }
+object i4 {
+def i3[i2](i4: => i0[i1]) = ???
+}
+object i2 {
+def main(i7: Array[String]): Unit =
+println(i8.i3(42))
+}
+
+trait i0
+object i1 {
+def i2(i3: i0) = i3 + i4
+val i4 = i1
+val i5 = i5
+new i1
+}
+
+trait i0 {
+def i1(i2: List[String]): Unit = {}
+object i4 {
+def i5(): Unit = {
+val i6 = new i3
+i4 match {
+case i5: i3 =>
+}
+}
+}
+
+abstract class i0 {
+implicit val i1: Int = 2
+}
+trait i2 extends i0 {
+def i1[i2](i3: i2) = 1
+val i4 = (1 => ()
+def i5[i4 >: Seq[_]](i3: Int): Any = i4
+i5(0, 10) i4 (??? : i0)
+def i4[i2: Int i7]: i1[Int] = i3
+val i8 = new i2 {
+val i2 = i3
+while (i6 List(new i0) => true) }
+
+class i0 {
+val i1: Int = 1
+class i2(i1: => Any)
+val i3: ((Unit, Int)) => Unit = ((i6: Int) => Unit): Unit = ()
+}
+class i4 {
+def i1(implicit i1: Int) = new i2
+implicit def i5[i3, i4[_]](implicit i8: i2[i9]): i8[i5]
+def Any = i5[Int, Int](1 -> 2)
+new i2[Int](1)
+val i6 = i2(new { def i1 = 0; case map => i4 })
+}
+
+object i0 {
+def i1(i2: Int)(implicit i3: Int): String = ???
+implicit def i4: Int = { i1: i0 =>
+i2
+}
+}
+
+package i0;
+abstract class i1;
+trait i2 {
+trait i3;
+trait i4 extends i1 {
+type i2 <: i5;
+trait i3 {
+type i4
+val i7: i4 = ???
+}
+val i6: i7.i3 = { val i2 = this; i7 }
+val i6: i0 { val i4: i5.i2 };
+i3.i8 }
+val i9 = new i2() {
+val i10: i6 = null
+implicit def i10: i1 = new i2 {}
+implicit def i9 = new i6(1)
+implicit def i10(i11: Int): Int = i9
+type i15 = { case i12(i1, i12) => i13 }
+val i15 = i10 def i9: Int = i10(i11)
+}
+trait i10 {
+type i11 = i8
+type i12 <: i1 <: i0
+final val i10: i7.i4 = null;
+val i10: (i1.i4, Seq[i4]]) =
+val i14 = i12() i12 i13.i7(i10)
+def i9(i10: Seq[i1]): Unit = {}
+}
+trait i9 extends i1 {
+abstract override def i2 = super.i1
+def i2 = i6.i4;
+val i5: i9.i7 = i9.i2
+}
+
+class i0 {
+val i1 = 1
+def i2 = (null: Any) match {
+case 1 => 0.super._
+val i2 = new i5.i2() println(new { def i3 = "" }) match { case i0 => i3.i4 } else new { def i2[i3](i4: => i3) = 0 }
+def i5(i4: i0): Unit = {
+i3()
+}
+}
+
+abstract class i0 {
+type i1
+type i2
+type i3 <: i4
+type i3 <: i1
+type i4 <: i3
+trait i5 { type i3 = Int }
+type i6 = Stream[i8]
+val i5: i4[i4] = i7.i5
+}
+
+
+import scala.language.dynamics
+import scala.kpackage
+object i0 {
+implicit class i1 { private[this] val i2: String = contains }
+class i3 {
+def update(i4: i2, i5 : Int): Any = ???
+def +++[@specialized(Int) i6](i7: i3) = return 5
+final val i4: Int = 5
+val i7 = i1[String, String]( i8 5 i8 ( | i3 == true)
+val i9 = i5
+object i19 extends Seq {
+def i5[i15[_]](implicit i16: i7, i8 : i11[i2]) = i7 match {
+case i11: i9[Int, Int] => i11
+println(i10)
+}
+}
+
+trait i0(val i1: Int) {
+def i2 = i1 }
+class i3(i4: Int) {
+private[this] def i1(): String = "" match {
+case i2 if true =>
+case _ =>
+}
+}
+
+package i0
+import scala.language.dynamics
+class i1 {
+trait i2[i3] {} trait i1[i2]
+class i4[i2] {
+def i5: this.type = i3
+def i6: i6[i4] = Nil
+}
+class i5[i2] {
+def this(i7: Any) = {}
+}
+class i8 extends i3[Int, Nothing] {
+type i4 = i8
+final def update[i2](i7: i3[i2]): i4[String] = sys.error("")
+class i13[i4] {
+def i5 = this;
+}
+
+class i0 {
+implicit def i1[i2: i3](implicit i4: i0[i1]): i5[i2] = ???
+}
+class i0(override val i1: Int) extends AnyVal {
+def i2[i3](i4: i3): Unit = {}
+def main(i8: Array[String]): Unit =
+i8.i4 match {
+case Some(i1, i9) =>
+case Seq => sys.error("")
+}
+i8.i6[String]
+val i10 = new i0[Int]
+}
+
+object i0 {
+class i1[i2] {
+def unapply(i3: i1): i0[i2, i4]
+}
+def i4[i2[_]]: i2[i3] = i2[i3]
+implicit class i5[i2](i6: i4) {
+def this(i7: i4 => Unit) case class i8() extends i3
+}
+class i9[i10](i9: i1) extends i4[i1] {
+def i2(i4: i4): Boolean = true
+}
+class i10 extends i0 {
+override def i4: Int = 1
+i5(i6) }
+class i14[i15](val i11: i4[i12, i13, i14, i15)]
+object i18 {
+def i15(i14: Int) = null
+val i14 = new i2[i1]
+i11 }
+
+object i0 {
+case class i1[i2, i3](i4: i2, i4: i2)
+object i5 {
+def i6[i7, i8 <: i0](i9: i7, i8: i4): i9[i3] = i7(i9)
+i9(new i6[Int]()
+}
+trait i9 {
+def i4: i6
+val i5: i6
+trait i10 {
+type i2 = Int
+val i2: i2
+var i13: List[Int]
+}
+val i15 = new i15.i19 { def i25: i1[Int] }
+}
+
+object i0 {
+case class i1[i2](i3: i2)
+val i4: i1
+val i5: i1
+}
+trait i6 {
+val i7: i4
+trait i8 extends i5 { type i1[i3] }
+trait i9[i1] extends i2[i8, i9]
+trait i11[i12] extends i11[i5]
+val i17: Byte[i10, _] => Any = ???
+}
+
+object i0 {
+type =!.i1 {
+type i2
+def filter = ()
+}
+new i2
+}
+
+trait i0 {
+def i1: String
+}
+trait i2 extends i0 {
+def i1 = i2
+}
+
+trait i0 {
+type i1 = Any <: i2;
+}
+
+import scala.Stream._
+object i0 {
+def i1[i0](i2: i2): Unit
+def i3[i4](implicit i5: i4[Int)]: i1 = null
+implicit def i6[i4[i5]: i0[i4]] = sys.error()
+def i8[i9 <: i1[i9]](i10: i11): i12[i17, i10] = new i1[i8, i6](i9)
+def i10[i2, i3]: i1[i9] = new i14
+implicit def i12[i3, i4, i8]: i1[i2, i14, i2[i13, i4]] = i10
+println(i10(i7 == i9) else ???) ||
+'i6
+i15
+i6 i10[i4]
+}
+def i16[i10, i11](i9: i12) = {
+implicit def i11(i12: i1[Any]) = i11#i2
+def i4[i5](i6: i0[i1, i2]): Unit = i12(i7: i4) def i10(i4: Int) = i10(i13, i14)
+def i14[i15[_]](i12: i6[i7], i11: i4[new]): i6[i9, i10]] = ???
+val i10: i8[i1, i2] = i15
+def i15[i16, i11](i16: i16[i7]): Unit = {}
+def i11[@specialized i12](val i15: i16[i12, i15]): i0[i2] = ??? }
+@i0
+i9
+}
+
+class i0[i1]
+class i2[i1] extends List[Int, Nothing] {
+def toArray = this
+}
+object i3 {
+def i4[i1]: i0[i2] = new i0(i3)
+def unapply(i5: Any) = new i0[Boolean](i6)
+}
+
+import Ordering.{ collection } package i0 {
+package i1 {
+class i2 {
+def i3: Any
+}
+type i4 = { val i2: i1 }
+val i5 = new i2
+val i6 = i3
+val i7 = i4
+i9
+}
+
+trait i0 {
+val i1: Int;
+def i2(i3: Int) = i2;
+val i4 = 10
+i2() println(i1 == ) }
+
+object i0 {
+def i1[i2](i3: i2): Unit = {}
+}
+
+
+def i10[i2, i3](i4: String): i3[String] = new { def i5 = new i1[i6]("") }
+trait i7[+i1] {
+def i8[i9 >: i1](implicit i10: i8 <:< i7[i8]) = this.i5
+}
+object i19 {
+def flatMap[i6](i15: => i6[i1]]): Unit = {}
+}
+object i9 {
+val i10 = new i7
+}
+object i9 {
+import i1._
+i2(new { val i10: Int) = i14 }
+class i16[i1, i2](val i1: i0[i1, i2]) {
+def i13[i12](i4: i0[i1]): Array[i2] = new i10(new i1[Int])
+i6(0) i7.i5(0) }
+
+class i0(i1: Int, i2: Int) {
+def i3 = 2
+}
+class i4 extends None {
+import implicit object i5 extends i0()
+val i6: List[Seq[Int]] = List()
+def i7: Int = {
+i0 i5 = i7
+)
+}
+i3(new i0 {})
+i2.i3(i4)
+}
+}
+
+import language.higherKinds
+""i0) {
+def i1(i2: i3): String = {}
+def i4(i5: i2): Unit = {}
+class i6 {
+lazy val i7 = new i0();
+case i8(i3(i4(_), null)) => i7 }
+}
+
+class i0 {
+def i1(i2: Int, i3: Int) = i2
+def i4(i5: Int)(i6: String) = i4
+}
+class i7(i1: String) {
+def this(i1: Int) = new i0()
+def i3(i7: Int): Any = i5 = i6
+class i8(i2: Int) {
+def i9: Int = i1
+}
+trait i1 extends i0 {
+override def i1[i3](i7: List[i2]) = i7 match {
+case _: String => Some(_ => Set.i5) map i10.i3 _
+case _ =>
+}
+}
+}
+
+import scala.i0
+trait i1
+class i2
+
+class i0 {
+val i1: Int => Int => Double = _
+i2 =>
+}
+
+trait i0
+class i1
+class i2
+object i3 {
+def i4(i5: Int): String =
+new i2();
+val i6 = new i0 {}
+val i4 = i2.i3()
+val i8 = i7.i2
+def i8(i9: Int = 0) = i9
+val i10 = i6(, )
+i1(i3() i13 5) }
+
+abstract class i0[+i1, +i2] {
+def head: i1
+def i3[i4, i5 <: i2[i3, i4]](i6: i2): i6[i3, i4] = i6
+val i4: ((i2, i6)) = i7
+class i8[i9]
+implicit def i10[i9: i9[i1], i15[i16] <: i16[i2, i17, i18]](i6: i1[i2, i4, i5]: i10[i6, i1, i9, i12, i12, i11, i14, i19, i20, i18, i15 <: i12], i19, i16, i19, i20, i29, i39 <: i4, i16, i15, i16, i19, i16, i19, i20) = null
+def i7[i10, i11[_]](i5: List[i6[_]]) = i6 match {
+case i15 i13 =>
+val i13 = i11
+i8
+}
+}
+
+abstract class i0 {
+abstract class i1(i2: Int)
+object i3 {
+implicit def i4(i5: i0): i1.i4 = i4
+}
+def i6(i4: i1) = i7
+}
+abstract class i5 {
+def i6(i7: Int) = i2
+}
+
+object i0 {
+trait i1
+type i2
+def i3(i4: i1): i2
+def i5(i6: i1[Int]) = new i1[i2]
+}
+object i7 {
+def i8(i9: Any): i8[i6, i6] = this match {
+case i7: i2 with i1 => true;
+case _ => Some(i7)
+case _: Int => val i9 => ???
+}
+}
+
+package i0 {
+trait i1 {
+def i2: this.type = {
+val i3 = new i0
+println(i1)
+else
+List(new Int](1, "") { class i4 {} }
+def i5(i6: Int): i1 = null
+def i7: Unit =
+val i5: Int = i5(, )
+}
+}
+
+package i0
+trait i1[i2, +i3] {
+type i4 = i0
+final type i3 = i4[String]
+object i5 extends i4 {
+val i6: i6
+trait i7
+val i5: i6
+def i7[i8[_]](implicit erased i9: i7[i8]): i0[String] = i8
+}
+class i11[i12, i2](
+new i17: i9[i10, i12])
+object i14 extends App {
+val i14 = null;
+abstract class i16[i7 <: i15] extends i10[i7] with i5[i4]; abstract class i3[i1[_]]
+class i14[i15](i12: i7[i11]) extends i6[i10] with i9[i10] {
+def i14(i15: i6[i7]): i1[i2] = i13 =
+case _ => i11
+case (i21, i19) => i12 + i13
+case Nil =>
+}
+}
+
+class i0 {
+trait i1
+trait i2
+class i3 {
+type i4 <: i2
+type i5 = Int
+type i6 = i0
+type i7
+type i7 <: i6
+type i8
+type i9 <: i3
+implicit def i9(i5: i0): apply[i9] = this
+}
+object i9 extends i0 {
+class i1
+}
+trait i10 {
+type i10
+def k167(i3: Int)(i10: Int): AnyRef = new i10 new i9(i10)
+val i11: i7.i4 = ???
+def i10(i13: i4): i1.i2
+}
+object i11 extends App {
+val i11: i1 = ???
+val i16 = i10 foreach { val i14 = 1 }
+trait i7
+}
+trait i8 extends i0 {
+val i9: i7 = ???
+def i9 = { implicitly[i7.this.type](i1); (_ })
+}
+}
+
+object i0 {
+implicit def i1: List[_ >: String <: String] = ()
+}
+
+
+i8 ' ' '
+
+class i0[i1] {
+this match {
+case _: i2[i1] => ???
+}
+}
+}
+class i3 {
+type i4[i3 <: i1]
+}
+trait i5 extends i0 {
+type i1[i2] = i3
+def i6: i4[i5]
+}
+object i7 {
+type i8[i9] = (String, String)
+List(i10))
+println()
+new i1() match new i3[Int] implicit def i10(i4: Seq[_]) = i8 match {
+case (_, _) => None
+}
+def i9[i2](i13: i0[i1, i12]) = ???
+def i11[i14](i11: i11)(implicit i11: i2[i1]): Unit = {}
+}
+class i7[@specialized i10] {
+def i9(i6: i2[i1]) =
+for (implicit i9 <- i11.i7(i5))
+case _ => None
+}
+}
+package i17 {
+package i9" {
+final case class i7[i4](i1: Int, i4: Int) extends AnyVal
+case class i14(i2: Int, i4: Int) extends AnyVal {
+def i14[i7](i18: i0): i1[i2] = new i1[i13]("")
+}
+
+object i0 {
+def i1[@specialized(Int) i2](i3: i2) = 2 * i2
+}
+object i4 {
+def i5: Int = {
+try return 50 }
+def i6[i5, i8 <: i7](i9: i0[i2]): String = ???
+def i10(i2: Int): Int = i6 match {
+case List(_: _*) => ???
+}
+}
+
+trait i0 {
+def i1: Any
+}
+type i2 = { def i3: Any }
+trait i4 {
+type i5 = i3
+def ::[i4](i6: i2 => String): i1 = i6
+def i7 = new i2
+(??? : Any)
+}
+
+object App {
+def i1 = {
+val i2 = this
+println(i2)
+} yield i1 match {
+case i3: Exception => {} }
+}
+}
+
+class i0 {
+def i1(i2: String): Int = new i1().i3
+}
+
+abstract class i0() {
+def i1 = {
+object i2
+def i3(i4: Any): String = sys.error("")
+val i5 = i2.i6
+i4 {
+i5()
+}
+}
+
+object i0 {
+trait i1[i2]
+trait i3[i4[_], i5]
+extends i0[i7] with i8[Long, i1]
+trait i8[i3[i6]]
+object i7 {
+implicit val i1: i5[i2] = new i0[i2] {}
+}
+class i10 extends i0[i2, i2] {
+def i10(i11: i4[i15, i6]): i10 = ???
+def i12(i16: Any) = 1
+}
+object i13 extends i0
+
+trait i0 { val i1: Int => Unit }
+implicit def i2(i3: i1) = {
+i1()
+}
+
+import language.higherKinds
+trait i0[i1[_]]
+trait i2[i3]
+sealed abstract class i4[i2] extends i0[Int, Nothing] with i1[i4]
+trait i5[+i3]
+class i6[i5](i4: Array[i3]) extends i0
+case class i8(val i6: Int) extends AnyVal with i7
+trait i10 extends i1
+
+class i0 {
+def i1 = 2;
+def i2(): i2;
+def i3 = new i0();
+val i4 = i2.i3;
+val i5: i2 = i0.i3();
+val i6: i0 = i2;
+}
+
+object i0 {
+val i1 = {
+import scala.annotation.i2
+}
+}
+
+trait i0 {
+type i1;
+trait i2 extends i1 with i2
+import AnyRef =>
+def i3=i4 = if (i3.i4) (true: Double, implicitly) map _*() }
+
+class i0 {
+var i1: Int = 1
+}
+object i0 {
+def main(i1: Array[String]): Unit = {
+val i2: Int = 0
+i2 { println(); i3 }
+}
+object i3 {
+def unapply(i4: Symbol): AnyRef =
+new i0(i3(, , i4 => Int, i5: Int, i6 _*)) }
+def i7(i6: Int)(implicit i5: Any): Option[i0]
+i2(i5 => i2): i6 = null }
+trait i7
+sealed trait i5
+final case class i4(i5: Int)
+class i6 extends i0(i7)
+object i5 {
+def main(i6: Array[String]): Unit =
+i5(i4) }
+
+package i0
+object i1 {
+trait i2[i3, i4] { def apply(i3: i2): i3 }
+def i5[i2](i3: i1[i2]): i1[i2] = ???
+import dotty.i0.i4
+def i7 = {
+val i8: Map = new i9 with i4 {}
+class i10 extends i8[Int] { def i10(i11: i0[String, String] = i4[i9])
+}
+object i14 {
+implicit def i14[i10, i11](i17: i1[i2, i14]): i10[i12.type] = null
+def i12(): Unit = {
+implicit val i11: i2[_,String] = new i7[i7]()
+new i5[String](1)
+val i15 = i10 match {
+case i7.i9 => i9 + 1
+}
+def main(i9: Array[String]): Unit = {
+val i10: i2[Int, Int] { type i4 = String }
+val i5 = i1(new i6)
+i10(new { val i12: Int = 10 })
+}
+
+object i0 {
+trait i1
+implicit val i2: i3 = 42
+def i4 = {
+object i5 {
+def i6(i7: i1): Int = {
+i2("");
+val i10 = new { val i1: i9.type; this.i1 } = new { def i1: Int = 1 }
+def i6(i5: scala.Int) = i6(5)
+}
+}
+}
+
+
